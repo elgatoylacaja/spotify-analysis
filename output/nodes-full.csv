@@ -1,0 +1,865 @@
+,spotify_id,name_id,name,followers,popularity,betweeness_centrality,group,unique_collabs,total_collabs,image
+0,4q3ewBCX7sLwd24euuV69X,Bad Bunny,Bad Bunny,52915846,100,16172.97705,0,119,245,https://i.scdn.co/image/ab6761610000e5eb8ee9a6f54dcbd4bc95126b14
+1,0EFisYRi20PTADoJrifHrz,Jhay Cortez,Jhay Cortez,4404989,84,2403.215884,0,82,188,https://i.scdn.co/image/ab6761610000e5ebbbeb7f1f3a9b011b73156dc0
+2,3LKXWvXFWrkwUzJWxzwVpW,Tony Dize,Tony Dize,2991179,75,1241.701113,3,25,68,https://i.scdn.co/image/0fb75163d5836f4479ddc91775694ba79979db4e
+3,1mcTU81TzQhprhouKaTkpq,Rauw Alejandro,Rauw Alejandro,12993677,89,13977.908156,0,148,286,https://i.scdn.co/image/ab6761610000e5eb75a6949c1571055dd609f890
+4,5n9bMYfz9qss2VOW89EVs2,Bomba Estéreo,Bomba Estéreo,973375,79,2390.747683,6,6,7,https://i.scdn.co/image/ab6761610000e5ebcc4d7c642f167846d8aa743b
+5,0MoaBi6dSquXp6rrlqlF8R,Buscabulla,Buscabulla,72671,70,0.0,0,2,2,https://i.scdn.co/image/ab6761610000e5eb0f45c57ebf4a141da295d680
+6,0GM7qgcRCORpGnfcN2tCiB,Tainy,Tainy,976826,79,3386.983844,0,48,93,https://i.scdn.co/image/ab6761610000e5eb72453ad016b059b06fd52569
+7,7ltDVBr6mKbRvohxheJ9h1,ROSALÍA,ROSALÍA,5637610,82,16.024338,0,9,11,https://i.scdn.co/image/ab6761610000e5ebd7bb678bef6d2f26110cae49
+8,21451j1KhjAiaYKflxBjr1,Zion & Lennox,Zion & Lennox,6569769,78,9626.301604,3,137,227,https://i.scdn.co/image/ab6761610000e5ebe6cd34548bf23eb55ca44615
+9,0eHQ9o50hj6ZDNBt6Ys1sD,Yandel,Yandel,6079631,74,11754.479078,0,126,230,https://i.scdn.co/image/ab6761610000e5ebdd4a7546a655a097dc1b9d04
+10,33ScadVnbm2X8kkUqOkC6Z,Don Omar,Don Omar,7656495,79,8170.418759,3,63,145,https://i.scdn.co/image/ab6761610000e5eb86d04a127819956aef61e351
+11,1SupJlEpv7RS2tPNRaHViT,Nicky Jam,Nicky Jam,17413553,81,15706.712335,0,145,301,https://i.scdn.co/image/ab6761610000e5eb143d99f40e7bb2cc471568c8
+12,4VMYDCV2IEDYJArk749S6m,Daddy Yankee,Daddy Yankee,28854310,87,8081.297178,3,99,251,https://i.scdn.co/image/ab6761610000e5eb2204cb5a314573e202f20f8d
+13,0Y30TbA4p8SAfCzy2AFBa8,Yaviah,Yaviah,129467,59,0.0,3,6,7,https://i.scdn.co/image/ab6761610000e5ebd6e7b9afa42ae264c84f22d4
+14,12vb80Km0Ew53ABfJOepVz,Ñengo Flow,Ñengo Flow,3554643,79,3917.988384,0,107,219,https://i.scdn.co/image/ab6761610000e5eb88b99535ed74688cf963d8c8
+15,77ziqFxp5gaInVrF2lj4ht,Sech,Sech,11017170,82,1767.251457,0,79,232,https://i.scdn.co/image/ab6761610000e5eb2f364933daca7516c6193ffe
+16,0Q8NcsJwoCbZOHHW63su5S,Mora,Mora,610013,81,6695.606857,0,47,63,https://i.scdn.co/image/ab6761610000e5eb123f579fb45368b2aaa78192
+17,4IMAo2UQchVFyPH24PAjUs,Jowell & Randy,Jowell & Randy,3605212,69,7836.589699,3,105,168,https://i.scdn.co/image/ab6761610000e5eb1919bd779536bbcb3a186150
+18,2R21vXR83lH98kGeO99Y66,Anuel AA,Anuel AA,23045207,85,4275.591263,0,97,219,https://i.scdn.co/image/ab6761610000e5ebc5c589b667f600c299552ee5
+19,7iK8PXO48WeuP03g8YR51W,Myke Towers,Myke Towers,9204528,84,6683.731101,0,122,262,https://i.scdn.co/image/ab6761610000e5eb9b7677e5bdee54a0ae0c8262
+20,1WMwuNKzEFtU6pPkdtryYS,Kendo Kaponi,Kendo Kaponi,849085,63,179.523872,0,30,55,https://i.scdn.co/image/ab6761610000e5eba6db079799d908caddf93b30
+21,4SsVbpTthjScTS7U2hmr1X,Arcangel,Arcangel,8585676,80,10875.024369,0,169,494,https://i.scdn.co/image/ab6761610000e5eb094836334a3e352ba839fefc
+22,1bAftSH8umNcGZ0uyV7LMg,Duki,Duki,6514094,84,29520.020794,10,88,149,https://i.scdn.co/image/ab6761610000e5eb9b2ccf4bc212d36ae64ee41a
+23,2XcZshqzPKm3iZcmt73R8D,Pablo Chill-E,Pablo Chill-E,826922,67,4475.910777,10,35,87,https://i.scdn.co/image/ab6761610000e5ebb401229a5cefc692a9d2741d
+24,1vyhD5VmyZ7KMfW5gqLgo5,J Balvin,J Balvin,34781550,88,3799.106151,0,78,216,https://i.scdn.co/image/ab6761610000e5eb5d0fc400392250a750a9403e
+25,5QzDzXfXC5lepOBeQXBiVO,Marciano Cantero,Marciano Cantero,3403,61,784.0,0,4,4,https://i.scdn.co/image/ab67616d0000b273b920b51b8284179fb4cb4f9e
+26,2oQX8QiMXOyuqbcZEFsZfm,El Alfa,El Alfa,2334408,77,5305.1267,0,73,160,https://i.scdn.co/image/ab6761610000e5eba97f2c907b36d3c1d8e58397
+27,2QWIScpFDNxmS6ZEMIUvgm,Julieta Venegas,Julieta Venegas,1719535,75,9865.502487,6,27,38,https://i.scdn.co/image/ab6761610000e5ebbc5aa2e1c5632844b4dd518d
+28,1qto4hHid1P71emI6Fd8xi,Aventura,Aventura,6218679,76,55.783843,3,9,16,https://i.scdn.co/image/ab6761610000e5eb4cd0464ef7d8eb8521f72dd8
+29,5hdhHgpxyniooUiQVaPxQ0,Nio Garcia,Nio Garcia,3469420,74,2999.288781,0,90,170,https://i.scdn.co/image/ab6761610000e5ebf6c0e106b139be41baae72fd
+30,4axKuDPr6WKcDCyh8vueTY,Luar La L,Luar La L,179410,64,1511.61863,0,53,80,https://i.scdn.co/image/ab6761610000e5eb7d6d3f7322438ce894c0ca7e
+31,6p2442ymrT9lZEuCZJdYcH,Ivy Queen,Ivy Queen,1845952,63,2201.822634,3,24,54,https://i.scdn.co/image/ab6761610000e5eba930c6844963452e8f1402aa
+32,7slfeZO9LsJbWgpkIoXBUJ,Ricky Martin,Ricky Martin,6717795,73,2592.799227,6,22,32,https://i.scdn.co/image/ab6761610000e5eba50f664a6b720e94196ba102
+33,65jIUih0ZeTUJhSTRuYxpi,Omy de Oro,Omy de Oro,198463,60,212.116794,0,44,63,https://i.scdn.co/image/ab6761610000e5ebbfa1bf676b75a8473e157f3b
+34,5XJDexmWFLWOkjOEjOVX3e,Eladio Carrion,Eladio Carrion,1742961,78,7111.652441,0,99,167,https://i.scdn.co/image/ab6761610000e5eb195cf1ae5db3ba7c22eb3412
+35,47MpMsUfWtgyIIBEFOr4FE,Lunay,Lunay,7039421,73,2562.268462,0,68,117,https://i.scdn.co/image/ab6761610000e5eb1db8a4795dc8b97abc1f6f11
+36,4wLXwxDeWQ8mtUIRPxGiD6,Marc Anthony,Marc Anthony,7647532,76,2230.185506,6,21,36,https://i.scdn.co/image/ab6761610000e5ebea64d3b81527134c0d65f341
+37,03Enzet8KLMkjdeQnbqbmn,Pacho El Antifeka,Pacho El Antifeka,168550,52,5305.791606,0,55,80,https://i.scdn.co/image/ab6761610000e5eb9f50682136dd6c4c928c17d0
+38,2TjgzYcbTdsZjbT9OItIeB,"Héctor ""El Father""","Héctor ""El Father""",502798,63,226.218965,3,29,67,https://i.scdn.co/image/fb6f6b52082b66ee883bccf31fec0640e901ef25
+39,2OHKEe204spO7G7NcbeO2o,Ñejo,Ñejo,3221316,67,6150.590061,0,69,112,https://i.scdn.co/image/ab6761610000e5eba8e1d7cdd4f2225a8222080e
+40,0AdjzZxHJ4MfbImx2rD0Df,Pj Sin Suela,Pj Sin Suela,56812,55,3409.833492,2,22,26,https://i.scdn.co/image/ab6761610000e5eb12ad0670161e7c325becf32f
+41,2ydZrTy8U3kOMOzx20s3dg,DJ Nelson,DJ Nelson,990782,72,8091.168788,3,55,141,https://i.scdn.co/image/ab6761610000e5ebda2b089ce40b8a1610acf988
+42,6w9ToX5slZ4uIdmD17hJ3c,Bryant Myers,Bryant Myers,7209077,76,1605.227103,0,82,168,https://i.scdn.co/image/ab6761610000e5eb5332f98f95b18ad1ffa4e0fc
+43,1fux65HMCBvfJHqlBc4Nno,Casper Magico,Casper Magico,1901411,69,1810.821391,0,70,158,https://i.scdn.co/image/ab6761610000e5eb5d5db7eb7422fd98f6f026ec
+44,1TtXnWcUs0FCkaZDPGYHdf,Darell,Darell,3072112,75,5488.481816,0,118,210,https://i.scdn.co/image/ab6761610000e5eb58e637c9f4c9a120ea6d29f7
+45,1i8SpTcr7yvPOmcqrbnVXY,Ozuna,Ozuna,32957080,85,8420.155198,0,119,273,https://i.scdn.co/image/ab6761610000e5ebb34caaa3f41eaf9ff5fe849d
+46,00me4Ke1LsvMxt5kydlMyU,Cosculluela,Cosculluela,4782377,70,3309.291972,3,93,163,https://i.scdn.co/image/ab6761610000e5ebf9f2283d080e3581a63daf79
+47,3RtNN1VnooWEn3KQk03DUL,Noriel,Noriel,6095466,72,8457.970919,0,104,229,https://i.scdn.co/image/ab6761610000e5ebf67825837cb85a913d244d93
+48,00XhexlJEXQstHimpZN910,Brytiago,Brytiago,5273721,73,4380.397827,0,101,158,https://i.scdn.co/image/ab6761610000e5eb32895c930900c81851cca0c3
+49,2wYOpkTJZGByNEOjEnSmoW,Revol,Revol,722845,58,564.608187,0,44,71,https://i.scdn.co/image/ab6761610000e5eb1f3bde2589342bcfbd35eb52
+50,3EiLUeyEcA6fbRPSHkG5kb,De La Ghetto,De La Ghetto,6103096,81,25317.288019,0,162,344,https://i.scdn.co/image/ab6761610000e5eb24a84b4f14311bc1cb3d7c6c
+51,4m6ubhNsdwF4psNf3R8kwR,KHEA,KHEA,4301934,75,5277.490981,10,49,75,https://i.scdn.co/image/ab6761610000e5eb16d81001af30e58bd1d7de4f
+52,6w3SkAHYPsQ1bxV7VDlG5y,Cazzu,Cazzu,4802210,73,6020.593139,10,51,69,https://i.scdn.co/image/ab6761610000e5ebefd0f64284cedfab7591c4a6
+53,0OROVBEZCocg0FcgJpyBse,Alex Sensation,Alex Sensation,167347,58,99.443584,0,23,23,https://i.scdn.co/image/ab6761610000e5eb82e1d726d26d83643e0d2455
+54,5gUZ67Vzi1FV2SnrWl1GlE,Benny Benni,Benny Benni,281789,50,76.597915,0,23,54,https://i.scdn.co/image/ab6761610000e5eb177389e5f8dfeae0037fe20e
+55,2qbEtwBVyobgpNP5KcHE9J,Pusho,Pusho,597400,58,531.562792,0,56,81,https://i.scdn.co/image/ab6761610000e5ebff626efb1be750d8ea78a459
+56,329e4yvIujISKGKz1BZZbO,Farruko,Farruko,13668381,84,17415.812163,0,174,415,https://i.scdn.co/image/ab6761610000e5eb53029f0f3a0a4b216b9f5df7
+57,1pf0MPKfKdvS8J779mS1Ay,Miky Woodz,Miky Woodz,3005363,71,3491.310113,0,97,169,https://i.scdn.co/image/ab6761610000e5ebbfbf1c02bf29eceaadd84e7c
+58,1GDbiv3spRmZ1XdM1jQbT7,Natti Natasha,Natti Natasha,8162707,76,5568.439458,3,79,127,https://i.scdn.co/image/ab6761610000e5eb34149919c8ccd138a6c02cf8
+59,1fctva4kpRbg2k3v7kwRuS,Rvssian,Rvssian,1916829,72,69.525826,0,15,21,https://i.scdn.co/image/ab6761610000e5eb6666f883c02cc5fc182a10c6
+60,790FomKkXshlbRYZFtlgla,KAROL G,KAROL G,27055406,86,6064.018545,6,62,143,https://i.scdn.co/image/ab6761610000e5ebfe5bb3951a54fca253e281a1
+61,4obzFoKoKRHIphyHzJ35G3,Becky G,Becky G,11962419,81,4506.130306,6,62,92,https://i.scdn.co/image/ab6761610000e5eb978f96761eb3fa26b91f1fb8
+62,6kq4GHwUcUojGIu0ziSNXf,Amenazzy,Amenazzy,2233045,64,1682.726805,0,50,73,https://i.scdn.co/image/ab6761610000e5eb68c96322a861979fad62198c
+63,68w2t0wbrGnxSIUHzWs5bt,Lito Kirino,Lito Kirino,199869,54,120.46715,0,14,23,https://i.scdn.co/image/ab6761610000e5eb743547415ff3aa28ae318d01
+64,2ayNSoKPCRAfjp6hQ76hRu,Nacho,Nacho,4627251,66,14920.824028,2,87,150,https://i.scdn.co/image/ab6761610000e5eb41680f4ed2cd47c84e8b9001
+65,64aJYyrXljOodnUG6jvhRD,DJ Luian,DJ Luian,1558934,74,581.182868,0,59,173,https://i.scdn.co/image/ab6761610000e5eb12720a4a06a7a2e78c5f42dc
+66,6P6GTRTigHBp8ZesNtpCKH,Almighty,Almighty,424279,70,23503.855618,0,50,90,https://i.scdn.co/image/ab6761610000e5ebefd18d2fec23083d22c8ed09
+67,3tZdknQnzsVIIdaGCTj4RX,Quimico Ultra Mega,Quimico Ultra Mega,233866,58,1191.796925,13,33,46,https://i.scdn.co/image/ab6761610000e5eb85d4ffd02837c1a0467e7f0a
+68,0zZJhc1T0zBurhnBwQ2fcu,Mark B.,Mark B.,221738,51,798.50442,0,13,13,https://i.scdn.co/image/ab6761610000e5ebdddb554c36da82ebf5f01a8d
+69,1RBzGO6Nm3uyhUSxP7EDWO,Kevin Roldan,Kevin Roldan,4899214,68,3072.83427,0,56,96,https://i.scdn.co/image/ab6761610000e5ebee017c13085fa55d3f1af348
+70,0tR60pwxQ5WKjPxQcKoCQ7,Messiah,Messiah,92608,55,401.925808,0,22,30,https://i.scdn.co/image/ab6761610000e5eb7ac5f74229df6a63b9392c89
+71,0GgyFUpOyzWDRDqx8FCTDN,Baby Rasta,Baby Rasta,1681183,63,419.383779,0,29,47,https://i.scdn.co/image/ab6761610000e5eb0f73cca6e26220f7cc61d930
+72,1jSjfSgDjedJdi5MoyRu78,Lary Over,Lary Over,4445781,66,744.506778,0,47,79,https://i.scdn.co/image/ab6761610000e5eb77daacf2c076796e402e23c9
+73,5lFhCi03HDneWzvCxGctrT,Jory Boy,Jory Boy,1553994,65,939.617342,0,60,105,https://i.scdn.co/image/ab6761610000e5eb59f03ae6ab47594b586679c0
+74,2pQAUIesBqfT87PaM1ijtk,Trap Capos,Trap Capos,352280,59,75.851515,0,30,98,https://i.scdn.co/image/ab6761610000e5eb87dcdc83d51c31a100dd0acb
+75,14zUHaJZo1mnYtn6IBRaRP,Justin Quiles,Justin Quiles,3647339,80,8974.99642,0,110,253,https://i.scdn.co/image/ab6761610000e5ebfb8b86f3418adb29b60fd3f5
+76,1pgDilWYDWLoOgGjf1iHNu,Zion,Zion,3092804,73,1285.477708,3,66,109,https://i.scdn.co/image/ab67616d0000b273d85d4d39fd1ed6e1744a7c37
+77,2LRoIwlKmHjgvigdNGBHNo,Feid,Feid,1779611,85,8911.489726,0,76,136,https://i.scdn.co/image/ab6761610000e5ebe9cf860130c25355b84687a5
+78,2p4aN0Uxkk3iT3HK0cJ2cJ,Tokischa,Tokischa,169149,64,110.783502,13,16,21,https://i.scdn.co/image/ab6761610000e5eb2b10a1f3edfdecf74d95a87d
+79,1DxLCyH42yaHKGK3cl5bvG,Maria Becerra,Maria Becerra,2884355,81,3576.164447,10,45,69,https://i.scdn.co/image/ab6761610000e5eb459b9d1006bd715a7e2d5663
+80,2cPqdH7XMvwaBJEVjheH8g,Jay Wheeler,Jay Wheeler,2706806,78,1604.67391,0,74,155,https://i.scdn.co/image/ab6761610000e5eb1e85cfd7346402dd9c3c4421
+81,1wZtkThiXbVNtj6hee6dz9,Wisin & Yandel,Wisin & Yandel,5508912,79,6350.610621,3,88,202,https://i.scdn.co/image/ab6761610000e5eb812644afc20cab37c72a8ba9
+82,6veh5zbFpm31XsPdjBgPER,BIA,BIA,357591,67,4.359511,0,5,6,https://i.scdn.co/image/ab6761610000e5ebf94c04d51a7784bb5e1d1b93
+83,7wU2WGCJ8HxkekHHE2QLul,Fuego,Fuego,249378,66,4119.160994,10,37,55,https://i.scdn.co/image/ab6761610000e5eb147cb1db29a72ed311f07ae2
+84,2x7PC78TmgqpEIjaGAZ0Oz,Trueno,Trueno,3655977,74,2815.796997,10,23,35,https://i.scdn.co/image/ab6761610000e5eb18af5b851999c50e3b7b1cb4
+85,3fZk3Gm5dN5v5yfYMQ04Bx,Dímelo Flow,Dímelo Flow,315119,71,1617.377731,0,63,166,https://i.scdn.co/image/ab6761610000e5ebf64b7eeda594e0ab8deb8b74
+86,1pQWsZQehhS4wavwh7Fnxd,Lenny Tavárez,Lenny Tavárez,1894138,80,2501.828466,0,83,183,https://i.scdn.co/image/ab6761610000e5eb3da6d515e399ae789ef563f3
+87,4QrBoWLm2WNlPdbFhmlaUZ,KEVVO,KEVVO,444817,64,2124.399758,0,75,106,https://i.scdn.co/image/ab6761610000e5ebe9f3b03885b3fb7b92395c5a
+88,1r4hJ1h58CWwUQe3MxPuau,Maluma,Maluma,31778738,83,12318.925572,6,96,159,https://i.scdn.co/image/ab6761610000e5eb96a9faf8f7ec1da103c63985
+89,3E6xrwgnVfYCrCs0ePERDz,Wisin,Wisin,8000710,76,17762.044286,3,131,321,https://i.scdn.co/image/ab6761610000e5eb7e04b739e0e88aa0da8d6905
+90,3Wb38LDP3N4tkobValgE9D,Juanka,Juanka,600321,66,3889.438731,0,73,125,https://i.scdn.co/image/ab6761610000e5eb90dc8ae47e297efacd9eccb1
+91,28gNT5KBp7IjEOQoevXf9N,Camilo,Camilo,15980416,80,2007.829233,6,32,51,https://i.scdn.co/image/ab6761610000e5ebe769600984af93b876cac668
+92,0KPX4Ucy9dk82uj4GpKesn,Dalex,Dalex,4229316,75,1967.184575,0,82,207,https://i.scdn.co/image/ab6761610000e5ebd1d344eba13e66f0cef274b6
+93,0tmwSHipWxN12fsoLcFU3B,Manuel Turizo,Manuel Turizo,10002778,80,5678.552559,2,87,147,https://i.scdn.co/image/ab6761610000e5ebd9a4d3f0b2d741634d55ca6d
+94,5lwmRuXgjX8xIwlnauTZIP,Romeo Santos,Romeo Santos,16003536,78,8018.014803,6,39,68,https://i.scdn.co/image/ab6761610000e5eb0d2f605c23090747230416db
+95,3jFjgKOGfVLWfXX8q5wrsg,R.K.M & Ken-Y,R.K.M & Ken-Y,496580,63,1528.891567,3,32,54,https://i.scdn.co/image/ab6761610000e5eb9306dfb38345dbb1bc01e3f6
+96,7Bb4i0RT3zaudzb8KvxTUQ,Amarion,Amarion,68502,52,171.661336,0,22,25,https://i.scdn.co/image/ab6761610000e5eb3624f047eaa3715031d224e0
+97,5Y3MV9DZ0d87NnVm56qSY1,Tiago PZK,Tiago PZK,2266528,80,4286.176304,10,39,68,https://i.scdn.co/image/ab6761610000e5ebfa1929a26839ae468cf85f07
+98,2NfSBtmWe7oPw1EmetJVso,Boza,Boza,445801,68,256.699671,2,24,33,https://i.scdn.co/image/ab6761610000e5eb94cf52a04855b3f75496fdf5
+99,06TVTkMAOR935MhkjX0i2A,Anthony Santos,Anthony Santos,732835,60,135.115338,3,9,15,https://i.scdn.co/image/ab6761610000e5eb8a252d707a414e0a8a07967c
+100,0n6sKrG0xKAf8xmdqeNGke,Los Legendarios,Los Legendarios,76105,68,413.343484,3,37,102,https://i.scdn.co/image/ab6761610000e5ebe2322e7cfdaf1bea3fff8e79
+101,4riOEaOW5hCeqomFDBk0aP,Rochy RD,Rochy RD,647160,64,106.360394,13,16,28,https://i.scdn.co/image/ab6761610000e5eba813356bcf63fd41e073eaa3
+102,4az97MtWmBQ5Db3GfDh9j9,Morad,Morad,1135256,74,830.709834,10,12,19,https://i.scdn.co/image/ab6761610000e5eb902d9426b94d137762d3d8ef
+103,4o0NtnL2m0lzZmEdRas1qv,Ovi,Ovi,745492,66,2744.025229,0,44,62,https://i.scdn.co/image/ab6761610000e5eb71b8235eccf131534941eec5
+104,2oT7xd9iTO2ejLsNGIMa5f,Flow La Movie,Flow La Movie,13868,60,11.750073,0,22,48,https://i.scdn.co/image/ab6761610000e5ebd9d45c111ed57ff967cd46ca
+105,0vR2qb8m9WHeZ5ByCbimq2,Reik,Reik,7449032,77,13235.248568,6,71,95,https://i.scdn.co/image/ab6761610000e5eb7ef75910e15bba278b939a70
+106,6ieK9Ddas29reReO60on3o,"Gotay ""El Autentiko""","Gotay ""El Autentiko""",549463,60,532.759242,0,36,71,https://i.scdn.co/image/ab6761610000e5ebe202e9e827d459865ceb48d0
+107,37UACiDcdzEYii0iU0QpAf,"Secreto ""El Famoso Biberon""","Secreto ""El Famoso Biberon""",379855,53,296.915484,13,24,40,https://i.scdn.co/image/ab6761610000e5ebb2aceb3af7d0befd232e27d2
+108,1Ts9of7VPZElwPQnqnDSfW,Lyanno,Lyanno,722189,72,8716.758121,0,117,190,https://i.scdn.co/image/ab6761610000e5ebfd2a95fc27f29ab482a9c397
+109,4V8Sr092TqfHkfAA5fXXqG,Luis Fonsi,Luis Fonsi,10480610,75,8715.163959,6,52,90,https://i.scdn.co/image/ab6761610000e5ebec1cd67f4c17468f335206eb
+110,2LmcxBak1alK1bf7d1beTr,Juhn,Juhn,1029700,71,1974.696995,0,68,118,https://i.scdn.co/image/ab6761610000e5eb78bb4688c974972d8e08f6bd
+111,5bWUlnPx9OYKsLiUJrhCA1,Jon Z,Jon Z,4522885,70,6627.759937,0,89,176,https://i.scdn.co/image/ab6761610000e5ebc989a9c2839895c8687d2da3
+112,4SzD0wClEg9NKVJZbCRFqS,Ele A El Dominio,Ele A El Dominio,1265746,63,2797.227061,0,25,39,https://i.scdn.co/image/ab6761610000e5ebc3e46299a91d813c0c77eb7e
+113,0qTZZWLzuD59Un5r1speHm,Chris Jedi,Chris Jedi,1929247,72,32.411889,0,13,22,https://i.scdn.co/image/ab6761610000e5eba4113459d4c8d6334f46bfbc
+114,2jSGzJw0ebJLu7OLVSOcBP,Plan B,Plan B,1959124,76,570.662523,3,48,78,https://i.scdn.co/image/eb21793908d1eabe0fba02659bdff4e4a4b3724a
+115,7qYeIN2r4H1kBvr0Gm9Iav,Randy,Randy,276120,68,3024.949293,0,81,139,https://i.scdn.co/image/ab6761610000e5eb1adfe18230a40885a5e71003
+116,4myAXQmMuS1lZe8T6Y7eBg,Yomo,Yomo,840351,56,1236.331085,3,49,82,https://i.scdn.co/image/ab6761610000e5ebd5f4d6302cf39f199c4745a8
+117,3jGlU8UMMo44I2xeLQ6FD3,Dalmata,Dalmata,1372903,62,530.031572,2,17,32,https://i.scdn.co/image/ab6761610000e5eb7d5a16813b37825722f6d163
+118,7cYik4OyfBXYV5Z2TI7p90,Farina,Farina,325626,60,2383.81896,6,24,37,https://i.scdn.co/image/ab6761610000e5ebed3fed6430af8f66263f69a3
+119,3MHaV05u0io8fQbZ2XPtlC,Prince Royce,Prince Royce,7124362,75,4296.799707,6,44,56,https://i.scdn.co/image/ab6761610000e5eb207150975a7266c3560ca6f9
+120,7tU1VKOuxiNZwBZC6RHidA,Alexis y Fido,Alexis y Fido,4505344,64,4149.587741,3,68,140,https://i.scdn.co/image/ab6761610000e5eb85a7dcb7677105c17a6c67e3
+121,6BeO1KuAWBqFriL1mLHtNc,Leslie Grace,Leslie Grace,1192991,61,932.571795,6,22,24,https://i.scdn.co/image/ab6761610000e5ebbde67f9fdaf3531de31caad2
+122,77GVmrLGuxNEvj2ibvT62v,Luigi 21 Plus,Luigi 21 Plus,1005517,58,1268.98495,0,46,82,https://i.scdn.co/image/ab6761610000e5eb30b631283ebcdd3964c9a24a
+123,6dexNK5MjEL8UvmA5MjSgg,Felipe Peláez,Felipe Peláez,1096993,57,549.872054,6,10,11,https://i.scdn.co/image/ab6761610000e5ebbc5af9dec3d59aba54b468fa
+124,4bw2Am3p9ji3mYsXNXtQcd,Piso 21,Piso 21,8304103,73,1627.875438,6,41,54,https://i.scdn.co/image/ab6761610000e5eb4500483a1ba2e4cb2f8bde67
+125,6EiZOxfG8B5evnLH4KnJeF,Dyland & Lenny,Dyland & Lenny,518141,50,108.903121,3,14,25,https://i.scdn.co/image/0c2e920d208e2763c2f62aeaecf17047fa83b354
+126,1GAymyGBvB4gQy5Z5LZ1Wj,Lalo Ebratt,Lalo Ebratt,1749774,66,6076.441249,2,64,112,https://i.scdn.co/image/ab6761610000e5eba8efc873570b7e84b101cd46
+127,1TA5sGRlKUJXBN4ZyJuDIX,Blessd,Blessd,973872,74,1150.518493,2,33,38,https://i.scdn.co/image/ab6761610000e5ebadc3d9875bcdfdc111ea960c
+128,7a0XAaPaK2aDSqa8p3QnC7,Beéle,Beéle,398648,70,816.357942,2,44,54,https://i.scdn.co/image/ab6761610000e5eb386892627f08fd6ab679bee4
+129,39yVoqm6sYFvvqF1RciUVf,Carlos Rivera,Carlos Rivera,3645418,72,22191.627678,6,55,95,https://i.scdn.co/image/ab6761610000e5ebd471aab52533508e4bcf9ba4
+130,3PAwspMN27PDm81WwXDsMf,Reykon,Reykon,3075775,61,1393.830872,0,31,39,https://i.scdn.co/image/ab6761610000e5eb34b80d042d1280d4bd2ccfa9
+131,3OcvS8PzSGYMBvLdzY6g3e,Silvestre Dangond,Silvestre Dangond,3714139,64,1834.003279,6,19,22,https://i.scdn.co/image/ab6761610000e5eb28b853a1c78b14c2cbc5086d
+132,0EmeFodog0BfCgMzAIvKQp,Shakira,Shakira,24393175,85,4453.250516,6,25,57,https://i.scdn.co/image/ab6761610000e5eb8136bed5d8a80791bbe9ae23
+133,2OnKRchqP7tT0FzTvWIFI7,Wolfine,Wolfine,1458437,58,5.523741,0,5,11,https://i.scdn.co/image/ab6761610000e5eb96b5ff74160fe7fcc9eb930a
+134,0TnOYISbd1XYRBk9myaseg,Pitbull,Pitbull,9480300,82,9283.116572,6,57,141,https://i.scdn.co/image/ab6761610000e5eb2dc40ac263ef07c16a95af4e
+135,6XFITTl7cFTdopDY3lUdlY,J Alvarez,J Alvarez,4731828,66,5124.764864,0,99,456,https://i.scdn.co/image/ab6761610000e5ebdcc7e2281c5b14a0aecfcb07
+136,0j8QSBQZ9MNSGjHr1Vll1R,Natalia Jiménez,Natalia Jiménez,698736,63,3626.097437,6,20,26,https://i.scdn.co/image/ab6761610000e5eb52076f3a1dfff9048a197084
+137,3IEvQoAohcGX7CdrbtIle7,Baby Rasta & Gringo,Baby Rasta & Gringo,2687722,62,1024.809956,3,38,89,https://i.scdn.co/image/ab6761610000e5eb3a36f5472c400dc038ac62a8
+138,5fJsY7afrbsyzJj9wdzJMh,"Tito ""El Bambino""","Tito ""El Bambino""",3181179,68,5765.852098,3,80,143,https://i.scdn.co/image/ab6761610000e5eb872ada5da8b8d530702a84f0
+139,16Juw2gfa9IxEL3Vu69cH7,Yaga & Mackie,Yaga & Mackie,415425,60,1670.711903,3,38,58,https://i.scdn.co/image/ab6761610000e5eb021c0743f56ff5fb6091205a
+140,07YUOmWljBTXwIseAUd9TW,Sebastian Yatra,Sebastian Yatra,19625821,81,24700.358507,2,96,194,https://i.scdn.co/image/ab6761610000e5eb28cc5ee1d7ba49cdc7dde27b
+141,0KKUc4amZyvswV2YL6WTar,Mariah Angeliq,Mariah Angeliq,338519,70,2277.979402,0,59,73,https://i.scdn.co/image/ab6761610000e5ebb04ebc27a3f90d30701592b1
+142,3VHAySZQPlfGlNLslzXYpN,Nathy Peluso,Nathy Peluso,901332,70,197.967962,10,10,12,https://i.scdn.co/image/ab6761610000e5eb7ca7110b14a67b44746a8713
+143,1GKIlPFdcewHtpDVCQ8zmJ,Brray,Brray,174287,70,4175.169386,0,106,193,https://i.scdn.co/image/ab6761610000e5ebe007f52ca247a269bb9a8870
+144,5mgqYTU6dhKlEdi7DOy4uU,Alberto Stylee,Alberto Stylee,298280,54,1257.376848,3,29,64,https://i.scdn.co/image/ab6761610000e5eba504b22dcb060d9ddf9e9944
+145,50sIhX3HytFEwQXZJLUZQE,Alejo,Alejo,22610,69,187.7209,3,16,17,https://i.scdn.co/image/ab6761610000e5eb3cef38d5d22d0db8177ff38a
+146,77iZVjeYoYSl5P0K9mIiUE,Haze,Haze,6497,55,16.176704,0,13,18,https://i.scdn.co/image/ab6761610000e5eb465b3ddb4cea09a2762e80ce
+147,1Db5GsIoVWYktPoD2nnPZZ,Gloria Trevi,Gloria Trevi,3733169,70,4924.471925,6,29,37,https://i.scdn.co/image/ab6761610000e5eb2688765e9480cbae4c5d691c
+148,6iSZjc4kOoKZKiBXK5HbwD,El Chombo,El Chombo,99865,54,0.0,6,3,27,https://i.scdn.co/image/ab6761610000e5ebc4f036427fb4c1b7a0078c70
+149,1ADdpen72RPuafRcv0YRBf,Antonio Orozco,Antonio Orozco,1257679,63,7421.593134,6,21,41,https://i.scdn.co/image/ab6761610000e5ebb4d9b8a37cf66beca4e5654e
+150,7K9rdoOJSiKXoVXPlSkGKT,Paty Cantú,Paty Cantú,2052805,63,9892.22268,6,35,54,https://i.scdn.co/image/ab6761610000e5eb5409fe5698ee423576bc03d2
+151,0eecdvMrqBftK0M1VKhaF4,CNCO,CNCO,9040662,70,1241.055481,6,21,26,https://i.scdn.co/image/ab6761610000e5ebae9279fc395fec19f47872d3
+152,7hIqJfRYGBWWT1Qxu6Cpd2,Andy Rivera,Andy Rivera,2529656,66,83.696487,0,17,26,https://i.scdn.co/image/ab6761610000e5eb08d1474f4d74377ca107cda7
+153,5sUrlPAHlS9NEirDB8SEbF,Alejandro Sanz,Alejandro Sanz,6430416,75,5595.424963,6,39,67,https://i.scdn.co/image/ab6761610000e5eb45b242f20217176f7e83857b
+154,4vhNDa5ycK0ST968ek7kRr,Carlos Vives,Carlos Vives,5413142,74,13866.768202,6,51,74,https://i.scdn.co/image/ab6761610000e5eb66c1b8fad87dc59892458036
+155,5jvQoouPSDvUEwynz5KPpv,Carlinhos Brown,Carlinhos Brown,133595,51,52.575036,6,4,5,https://i.scdn.co/image/ab6761610000e5ebd194c53a2f65bbcbd3a2ffe7
+156,52aHqEQZ802daFzuMHfcES,El Cata,El Cata,8905,53,156.040834,6,11,21,https://i.scdn.co/image/ab6761610000e5ebd368fe03846940d105f206b3
+157,0yNSzH5nZmHzeE2xn6Xshb,Calle 13,Calle 13,2724557,68,3079.618877,6,15,18,https://i.scdn.co/image/edabfb79fbf3d71ad9d0961a7b199a1470fe5372
+158,1QOmebWGB6FdFtW7Bo3F0W,Gustavo Cerati,Gustavo Cerati,3189693,68,846.0942,6,6,8,https://i.scdn.co/image/ab6761610000e5eb6d38c7aebc81afb076354b3b
+159,4QVBYiagIaa6ZGSPMbybpy,Pedro Capó,Pedro Capó,1511985,68,6937.77172,6,36,54,https://i.scdn.co/image/ab6761610000e5eb457c9ba97d2dd1342f12eb7f
+160,3SUT1jjM5hzZj9TLfLZGIP,Tego Calderon,Tego Calderon,3435632,69,7377.850448,3,43,68,https://i.scdn.co/image/ab6761610000e5eb26cc52c33f40a2a3e1cb47f4
+161,7qG3b048QCHVRO5Pv1T5lw,Enrique Iglesias,Enrique Iglesias,10863999,76,3070.235532,6,24,87,https://i.scdn.co/image/ab6761610000e5ebe784d82734a77def7f967703
+162,716NhGYqD1jl2wI1Qkgq36,Bizarrap,Bizarrap,6319333,87,9983.596488,10,55,77,https://i.scdn.co/image/ab6761610000e5eb12085fdb28f314e01ef73a19
+163,2DspEsT7UXGKd2VaaedgG4,Alex Rose,Alex Rose,3003742,70,2091.024546,0,65,108,https://i.scdn.co/image/ab6761610000e5ebc2a62a14000269ff2fa656f6
+164,4Tw0VaV1ENei24iQnktjXj,Alexio,Alexio,51861,55,242.07665,0,25,37,https://i.scdn.co/image/ab6761610000e5eba0dc56019927cd7c7feeeeb3
+165,7rNbdH4pgrnwguvzxhA2Ek,Jorge Celedón,Jorge Celedón,1457991,60,10266.154392,6,33,38,https://i.scdn.co/image/ab6761610000e5ebcfebd17475e8a86c6148b063
+166,05xSLrRgGwm2nCH2SmnNMW,Rosario,Rosario,667825,63,4705.373108,6,20,28,https://i.scdn.co/image/ab6761610000e5eba9298a06d6f6e4f4a54c0af2
+167,0zO8yNnw5GQgutcIyXfGBY,ELENA ROSE,ELENA ROSE,14549,52,0.0,2,3,4,https://i.scdn.co/image/ab6761610000e5ebe5ec8cbda1a5b0fbfe265d76
+168,7eLcDZDYHXZCebtQmVFL25,Aitana,Aitana,2143802,77,4152.556504,2,30,45,https://i.scdn.co/image/ab6761610000e5ebe20d1e9d7eb5b59dd2586997
+169,5J7rXWjtn5HzUkJ4Jet8Fr,Alvaro Diaz,Alvaro Diaz,199766,67,4364.898344,2,40,58,https://i.scdn.co/image/ab6761610000e5eb364f118b7f989c6581411474
+170,0BqURncJM5B1BBu7UM51eq,Guaynaa,Guaynaa,727618,68,16789.088095,0,76,113,https://i.scdn.co/image/ab6761610000e5eb710db427ce36c07d6902f1e9
+171,5M9Bb4adKAgrOFOhc05Y50,Pablo Alborán,Pablo Alborán,4506260,73,1575.166175,6,20,31,https://i.scdn.co/image/ab6761610000e5eb603fdedea1dab4c77d7d8bcc
+172,264nbMzGPSkDZqTY8nXwCG,Tommy Torres,Tommy Torres,851711,61,2379.778859,6,16,21,https://i.scdn.co/image/ab6761610000e5eb3ad2fd00f1e96ce0219af074
+173,0ZHPrnImGh4re3TbSNkoZl,Beret,Beret,2629872,69,4374.883866,2,26,34,https://i.scdn.co/image/ab6761610000e5ebbe52891d50a358943a830701
+174,5DUlefCLzVRzNWaNURTFpK,Cali Y El Dandee,Cali Y El Dandee,3640516,70,4892.802197,2,56,108,https://i.scdn.co/image/ab6761610000e5eba77fda338041d3024a2316e9
+175,0AqlFI0tz2DsEoJlKSIiT9,Emilia,Emilia,845978,72,5452.810279,10,34,48,https://i.scdn.co/image/ab6761610000e5ebaf96d1453d77d1d758c224bd
+176,2wkoKEfS6dXwThbyTnZWFU,Mau y Ricky,Mau y Ricky,5293018,73,7665.138339,6,70,100,https://i.scdn.co/image/ab6761610000e5eb58efe6fc6305da076d48ec7f
+177,5xSx2FM8mQnrfgM1QsHniB,Danna Paola,Danna Paola,3905733,72,5432.284444,2,35,52,https://i.scdn.co/image/ab6761610000e5eb2d559a99261562a0a22d1a8a
+178,5C4PDR4LnhZTbVnKWXuDKD,Morat,Morat,6332470,81,6217.143189,2,35,58,https://i.scdn.co/image/ab6761610000e5ebeb27e0d833dcc24c376cb24c
+179,7A02nc5WKMBLqSKXxGZ4o8,Llane,Llane,58065,56,3947.806985,2,35,46,https://i.scdn.co/image/ab6761610000e5eba49a0f5fcfdda1b8bf431849
+180,7okwEbXzyT2VffBmyQBWLz,Maná,Maná,8281658,76,273.630295,6,5,5,https://i.scdn.co/image/ab6761610000e5eb152dcec8175d19fb12eeb8e0
+181,7vXDAI8JwjW531ouMGbfcp,TINI,TINI,4704940,79,2027.197522,2,38,52,https://i.scdn.co/image/ab6761610000e5eb0cd53a4c51d4cde67789432d
+182,0UWZUmn7sybxMCqrw9tGa7,Juanes,Juanes,3940375,73,7918.842596,6,33,64,https://i.scdn.co/image/ab6761610000e5eb250f1e78d9f8b375b33e5ad6
+183,1vrahybrKylgwkjhbmOz94,Yera,Yera,56558,60,3055.450323,2,43,77,https://i.scdn.co/image/ab6761610000e5eb9805a7d2689558400db9d9d6
+184,6sq1yF0OZEWA4xoXVKW1L9,Alejandro Fernández,Alejandro Fernández,5841495,75,3662.352782,6,26,39,https://i.scdn.co/image/ab6761610000e5eb452691cfa37fdd5b3417ed0d
+185,7Hf9AwMO37bSdxHb0FBGmO,Alejandra Guzman,Alejandra Guzman,3030639,67,1158.051162,6,13,28,https://i.scdn.co/image/ab6761610000e5ebff480914a36f06a1dca2c8e8
+186,5gOJTI4TusSENizxhcG7jB,David Bisbal,David Bisbal,4002152,70,6115.237434,6,41,70,https://i.scdn.co/image/ab6761610000e5eb20d6518a838a8dc7bfdb540e
+187,3ATyg4fGC9F8trfb0GRWmX,Joey Montana,Joey Montana,2596478,64,5858.623347,2,40,67,https://i.scdn.co/image/ab6761610000e5eb950174a9aa24bd9b87000396
+188,2DP9xStkVVv753RBiEHXQB,Alkilados,Alkilados,1922269,56,2842.783419,0,12,14,https://i.scdn.co/image/ab6761610000e5ebe19e07273c64fb35c283904c
+189,3vQ0GE3mI0dAaxIMYe5g7z,Paulo Londra,Paulo Londra,17795379,79,53.551892,0,11,14,https://i.scdn.co/image/ab6761610000e5ebf796a976c5597baf6f7b786c
+190,3YXpTiyVmYCfANOlnWv6vr,Trebol Clan,Trebol Clan,1409715,59,477.56411,3,32,51,https://i.scdn.co/image/ab6761610000e5eb3fd0dfa279be80ed876d401a
+191,4DYFVNKZ1uixa6SQTvzQwJ,Ken-Y,Ken-Y,316391,62,134.648788,3,25,57,https://i.scdn.co/image/ab6761610000e5ebdcc1069f2a7abbec7a2cb9c1
+192,1ljNTY4uIBecRJmy69UNWt,Don Chezina,Don Chezina,329500,53,53.088758,3,14,25,https://i.scdn.co/image/ab6761610000e5ebf59372550193ff28bcd5bfd1
+193,7a9gFzWS5uEHtbNNgA6xyM,D.OZi,D.OZi,191421,50,307.884602,0,40,63,https://i.scdn.co/image/ab6761610000e5eb6676229f5a220d4094d88ac7
+194,62lbdm09j0QUbWB7SqCJvt,Anonimus,Anonimus,265764,52,1901.183338,0,68,118,https://i.scdn.co/image/ab6761610000e5eb353d4cda36afbd18d4c7b186
+195,76whng5pl9msPkkjFUtWYn,Tempo,Tempo,859730,56,633.835246,0,41,53,https://i.scdn.co/image/ab6761610000e5eb401a07e7ab25be8918561564
+196,5TYxZTjIPqKM8K8NuP9woO,C. Tangana,C. Tangana,2105396,75,12386.390468,10,35,53,https://i.scdn.co/image/ab6761610000e5ebdfb9d2cb6a43021d9002a10e
+197,66U02qGDesTqZImnLSiYeE,Elvis Martinez,Elvis Martinez,233556,50,52.035854,6,4,5,https://i.scdn.co/image/ab6761610000e5eb0a7a7dadfe1bc9e0971649a8
+198,4vQV1LCGBdYAt5rIIPjSFZ,Frank Reyes,Frank Reyes,546641,56,1140.708376,11,7,9,https://i.scdn.co/image/ab6761610000e5ebbbe87779d198b31d6d54b80c
+199,4RnIr0AAau1SBJMbjJ9poC,El Chaval de la Bachata,El Chaval de la Bachata,280570,53,2.0,6,4,6,https://i.scdn.co/image/ab6761610000e5ebc6c232b760c490ab66cb20c5
+200,6Mjbr8K3MiiRMqmFIB4zWq,Luis Vargas,Luis Vargas,256365,53,534.501803,6,6,10,https://i.scdn.co/image/ab6761610000e5eb7aa8d4bdc22dc5372b90a429
+201,1YYp1qwJ7EAitFINQ7gOKV,Kiko Rodriguez,Kiko Rodriguez,95719,50,0.0,6,3,4,https://i.scdn.co/image/ab6761610000e5eb366ce71d9440933447234f2c
+202,5rvaaWutd0gsbc2iMNo9k5,Raulin Rodriguez,Raulin Rodriguez,367028,57,5.208609,6,4,5,https://i.scdn.co/image/ab6761610000e5eb4da10df2db804d0fa6515b85
+203,2ElpWA67jmhM6LrDav4Jcy,Teodoro Reyes,Teodoro Reyes,224064,50,0.0,6,1,1,https://i.scdn.co/image/ab67616d0000b2733fa03aad789c7333210894af
+204,1LKPL2O3vA3ozNsmshDg3o,Zacarias Ferreira,Zacarias Ferreira,1254831,59,0.0,3,2,3,https://i.scdn.co/image/ab6761610000e5ebe420b69b5afbd661aec3c53c
+205,3rs3EOlJ8jyPpdGiQ9Mhub,Monchy & Alexandra,Monchy & Alexandra,776750,60,269.078801,6,5,5,https://i.scdn.co/image/c88ecd17387b1733226d728ef621bb91bf85f062
+206,3nlpTZci9O5W8RsNoNH559,Juan Luis Guerra 4.40,Juan Luis Guerra 4.40,3153793,73,3117.112428,6,20,33,https://i.scdn.co/image/ab6761610000e5ebaa60935c3c4dc4a0fd48759e
+207,4etuCZVdP8yiNPn4xf0ie5,Julio Iglesias,Julio Iglesias,2208102,67,665.534083,6,10,13,https://i.scdn.co/image/ab6761610000e5ebeb26b397cfc1d5b785296cdd
+208,3Ces1OJeGOVGcUB0wPaPXJ,Mala Rodríguez,Mala Rodríguez,475818,58,8518.990073,6,23,36,https://i.scdn.co/image/ab6761610000e5eb5296ee9862de29ee24a1276f
+209,7esCoLcCoCK7FPa9casAH4,Alex Bueno,Alex Bueno,215141,55,0.0,3,4,4,https://i.scdn.co/image/ab6761610000e5eb22e25fa06d149d50de39ec86
+210,2UZIAOlrnyZmyzt1nuXr9y,Nicki Nicole,Nicki Nicole,3108505,78,14778.194089,10,47,62,https://i.scdn.co/image/ab6761610000e5ebc4339841ed995cedbc0cff4e
+211,4uoz4FUMvpeyGClFTTDBsD,Ricardo Montaner,Ricardo Montaner,5062946,68,1197.117857,6,16,25,https://i.scdn.co/image/ab6761610000e5eba52d55f1b4af8cc18bd557be
+212,6FOpWOxsjQxKEbLiJpU1xV,India Martinez,India Martinez,801879,62,4801.010332,6,34,44,https://i.scdn.co/image/ab6761610000e5eb38e082f05ad4798018f07214
+213,0odliLZMTk45CEVzF3Zocl,Mozart La Para,Mozart La Para,372690,56,1980.424022,13,35,43,https://i.scdn.co/image/ab6761610000e5eb7a758d6dde8f2b3abaf58ade
+214,3Okcq0dqLVlEFHRZ5t22bA,Voltio,Voltio,727927,55,1135.094066,3,26,32,https://i.scdn.co/image/8a87cea2034ecc3700ad827f99714a701828d8f5
+215,7K78lVZ8XzkjfRSI7570FF,José Feliciano,José Feliciano,297443,62,3855.433934,6,12,20,https://i.scdn.co/image/ab6761610000e5eb5f8c900bf430e6bfae9ec7c2
+216,1K0lOPFlbPF3Volp5qIYNw,Jadiel,Jadiel,1081012,52,34.439769,0,7,9,https://i.scdn.co/image/3d0597d79bdf4b7c7f3cade64125b2136bb5d51f
+217,3NpG6SsHaQETkdQVZH6V1E,Kiko el Crazy,Kiko el Crazy,81845,58,2211.188066,0,49,77,https://i.scdn.co/image/ab6761610000e5eb03c9a58bd8f5484b484b447c
+218,4zOhMWD0LoBe2nP7s9cHhX,Joyce Santana,Joyce Santana,90770,55,766.617682,0,38,57,https://i.scdn.co/image/ab6761610000e5eb5441925c348459c300831be4
+219,128ftF9X7Kd7Di2fq3wYVs,Jamby El Favo,Jamby El Favo,807287,64,606.722809,0,26,37,https://i.scdn.co/image/ab6761610000e5ebbd5cbba4c21df590739d4530
+220,1Vr7DTbtTpOp4tn4hAGOYo,Lirico En La Casa,Lirico En La Casa,192139,58,752.718532,13,17,21,https://i.scdn.co/image/ab6761610000e5eb952fcb8be372b671b696b33b
+221,5UopXhshFFqRIMfeZrBclq,Ceky Viciny,Ceky Viciny,136475,53,730.309527,13,30,78,https://i.scdn.co/image/ab6761610000e5ebb6473287eab59c6a40d93e84
+222,6NmMI7UnfmIpLRYoz8H9jm,Ankhal,Ankhal,128445,59,186.626652,0,30,39,https://i.scdn.co/image/ab6761610000e5eb4f36c6d2aabd8dd7543d9781
+223,1AACxWCwNIa3ecOBQJnXRV,Nino Freestyle,Nino Freestyle,115708,50,685.368435,13,26,30,https://i.scdn.co/image/ab6761610000e5eba90c3f60fad4ffd03007c435
+224,7kXCcNRLEnblbTAppPraBp,Milly,Milly,44144,53,83.102869,0,30,59,https://i.scdn.co/image/ab6761610000e5ebb50a521ce29a27691d7c7ee7
+225,1lgtR3WlcFxEy6yPoOh0J2,Hozwal,Hozwal,89748,50,1185.754692,0,43,52,https://i.scdn.co/image/ab6761610000e5eba46fc59d130434050e4e1bcd
+226,7awyvLSthqOcL5A3hnR1pf,Alex Gargolas,Alex Gargolas,55155,59,1238.329634,3,48,102,https://i.scdn.co/image/ab6761610000e5ebfdfceb6ce0e3685aaef60bc7
+227,4F4pp8NUW08JuXwnoxglpN,Bad Gyal,Bad Gyal,759986,68,951.708888,10,18,21,https://i.scdn.co/image/ab6761610000e5eb6d2d0aa45aca13037f0b54bd
+228,384MqcXCGGFh9UcjI5Tpc5,Eix,Eix,31219,58,606.133858,0,38,45,https://i.scdn.co/image/ab6761610000e5eb0812f19c31b8376058cac8e7
+229,7nuTWfojdN0o8d7NGDo71U,Lil Geniuz,Lil Geniuz,14159,50,18.450847,0,10,12,https://i.scdn.co/image/ab6761610000e5eb0fe7cd25c79a6e4023328db6
+230,3bvfu2KAve4lPHrhEFDZna,Lola Indigo,Lola Indigo,779318,68,5328.770408,2,44,61,https://i.scdn.co/image/ab6761610000e5eb96f3b815e734ee172bcdf245
+231,40lro6xpFS9TxV2uC7yvs4,Leebrian,Leebrian,30201,53,314.574986,0,26,34,https://i.scdn.co/image/ab6761610000e5ebb50d4ea42cc7abe2f1376b83
+232,2QUvtLq6oQaX0LNsYY2fas,Cauty,Cauty,857812,59,1678.460296,0,51,70,https://i.scdn.co/image/ab6761610000e5ebf67bd71f5d5143352062d13b
+233,6vPXtLmNd3mW0dd1Rb9eQ9,Don Patricio,Don Patricio,586161,59,3339.866979,10,19,24,https://i.scdn.co/image/ab6761610000e5eb9e855ed552647416afe0e9ed
+234,11YLRSsZA3YVuQQtHXKTlz,Rafa Pabön,Rafa Pabön,210903,67,2654.021778,0,60,91,https://i.scdn.co/image/ab6761610000e5eb02421a368a7cc3fcaf147c06
+235,4gZwJrNP5NG3KGS2dRcS5c,Nekxum,Nekxum,1905,54,3.302106,2,8,29,https://i.scdn.co/image/ab6761610000e5eb5119cf37d4b00164b414cd9c
+236,3HH6yOn1yJNZo3RY5zEfy5,Javiielo,Javiielo,251108,62,566.717859,2,30,61,https://i.scdn.co/image/ab6761610000e5eba27ac01599c4291434bb2b87
+237,23wEWD21D4TPYiJugoXmYb,Thalia,Thalia,4072132,69,4486.053375,6,31,54,https://i.scdn.co/image/ab6761610000e5eb1afdb4b3c2ffc005d366134e
+238,0haZhu4fFKt0Ag94kZDiz2,Sofía Reyes,Sofía Reyes,2576624,72,2875.748943,6,27,36,https://i.scdn.co/image/ab6761610000e5eb1630ace4444837a538d34048
+239,07PdYoE4jVRF6Ut40GgVSP,Cartel De Santa,Cartel De Santa,11380611,75,2378.0,1,8,19,https://i.scdn.co/image/ab6761610000e5ebbd172041a059e4b6e46e2cfc
+240,2N2aJ1SXQxMkhHD8C6fhYD,Millonario,Millonario,1203836,65,0.0,1,3,10,https://i.scdn.co/image/ab6761610000e5ebb54b209cd4863a2e83cac7b0
+241,59XuCTeNNS0fVgBrFoPNfG,Santa Estilo,Santa Estilo,344374,54,0.0,1,3,3,https://i.scdn.co/image/ab67616d0000b273dfacd0a34126a18672114d3f
+242,31l8FA2bO5qxpqf8uhV5eZ,Millonario & W. Corona,Millonario & W. Corona,734860,59,0.0,1,2,5,https://i.scdn.co/image/ab67616d0000b2736607a51331ee3300109da153
+243,7lCRuW6BSXGAsxuQV9lR0i,Gigolo Y La Exce,Gigolo Y La Exce,474749,62,177.490399,0,42,73,https://i.scdn.co/image/ab6761610000e5ebe52bc035fccef431630ba2dc
+244,2kqUKsTuEj1lPbm6BSn1AU,Rich Music LTD,Rich Music LTD,229079,63,2.845725,0,18,50,https://i.scdn.co/image/ab6761610000e5ebb09e14fd2ae3c72dd1caf888
+245,6tkyhGe9hGI3Lcfo4gVh6Z,ChocQuibTown,ChocQuibTown,615931,56,1108.150995,6,25,42,https://i.scdn.co/image/ab6761610000e5eb08bfb67cb13074395532f417
+246,5luyt0SUvGkDMY4ILP6Qhl,Descemer Bueno,Descemer Bueno,42726,64,1432.298268,6,16,33,https://i.scdn.co/image/ab6761610000e5eb6f17687bd4458a6145f95fc3
+247,2cy1zPcrFcXAJTP0APWewL,Gente De Zona,Gente De Zona,1469252,70,4941.590763,6,41,72,https://i.scdn.co/image/ab6761610000e5eb2357c57a1496db97ed8a8a34
+248,3tJnB0s6c3oXPq1SCCavnd,Marco Antonio Solís,Marco Antonio Solís,5385264,73,447.313324,6,14,24,https://i.scdn.co/image/ab6761610000e5ebf7422a4a2b7f13531f22e38b
+249,1ackd5XprZEkH3McKbQD51,Juan Magán,Juan Magán,1690012,68,18223.558543,6,73,124,https://i.scdn.co/image/ab6761610000e5eb874c860c7fea4f5c97d4e6d9
+250,2e4nwiX8ZCU09LGLOpeqTH,Laura Pausini,Laura Pausini,2069787,69,419.20415,6,11,22,https://i.scdn.co/image/ab6761610000e5eba1ca264aff097f33f02a9938
+251,0r8toju2ecKaVtItkzAnNi,Aleks Syntek,Aleks Syntek,1250900,65,5554.709378,6,23,33,https://i.scdn.co/image/ab6761610000e5eb9f85f661de8271cff40fa8b2
+252,2uEjXyVi0SA1HPpj3zquXh,Noel Schajris,Noel Schajris,986308,56,925.841535,6,20,28,https://i.scdn.co/image/ab6761610000e5ebf5dcec71b91102b11987d1c5
+253,4kcnsS1aAB40FMcLD01gmI,KURT,KURT,240408,62,4014.587932,6,17,29,https://i.scdn.co/image/ab6761610000e5ebfc07203eae732c92d72f2025
+254,4N5fp4zhTsVITZTVfsXpc2,Víctor Manuelle,Víctor Manuelle,1451981,63,4676.567554,6,34,49,https://i.scdn.co/image/ab6761610000e5ebe3f87bc61eaedafe14b814a9
+255,6Itjwvv5YmsC8ZcI5N4Jux,Sael,Sael,28329,59,4301.502407,2,31,34,https://i.scdn.co/image/ab6761610000e5ebcb7f584dba6d09a0120103c1
+256,2bxxlINUlcMQQb39K7IopR,Abraham Mateo,Abraham Mateo,1405046,63,1755.36536,6,29,36,https://i.scdn.co/image/ab6761610000e5eb5e4204f8cf61cf28d566fb6e
+257,5LeiVcEnsZcwc133TUhJNW,Belinda,Belinda,1483278,70,2213.782188,6,24,44,https://i.scdn.co/image/ab6761610000e5eb0bd2a5deecd7641dfd693e34
+258,0h1zs4CTlU9D2QtgPxptUD,Ricardo Arjona,Ricardo Arjona,9548021,75,190.390877,6,8,16,https://i.scdn.co/image/ab6761610000e5eb9b7e4f8e868dc2adfe6c3f4d
+259,0K9pSmFx0kWESA9jqx8aCW,Gaby Moreno,Gaby Moreno,71506,58,197.931784,6,5,10,https://i.scdn.co/image/ab6761610000e5eb263510f107551299b233f338
+260,69UypehHabb68utzfjAVlV,Kany García,Kany García,1621175,69,9607.180292,6,34,40,https://i.scdn.co/image/ab6761610000e5ebea847a803f68d39eae07afa2
+261,3zhijRRIZX2B6G2T7vJl9p,Mijares,Mijares,1643074,66,1414.071385,6,21,43,https://i.scdn.co/image/ab6761610000e5eb084fa23929cb593f08f8dfce
+262,1noWnd8QFQD9VLxWEeo4Zf,Don Miguelo,Don Miguelo,211409,56,790.249758,13,20,22,https://i.scdn.co/image/ab67616d0000b273ba89160205df90af1437e0b2
+263,4PrinKSrmILmo0kERG0Ogn,Trina,Trina,925995,55,0.0,6,2,4,https://i.scdn.co/image/ab6761610000e5eb305f5f33baf8e7d11ff8b753
+264,72R3RMGmSmzG57R7OUaDaN,Toby Love,Toby Love,580223,52,491.335541,3,14,21,https://i.scdn.co/image/ab6761610000e5ebb28d8611e2dd7854d77d8cc9
+265,3m5qlPf2OkihLz3dRYnkPA,Ovy On The Drums,Ovy On The Drums,161215,70,486.265915,2,25,31,https://i.scdn.co/image/ab6761610000e5eb4bb8dc84b665069642ed381e
+266,1aWJsBQa67l72j1VT3D6Ow,Micro TDH,Micro TDH,1307751,67,1781.590429,2,24,47,https://i.scdn.co/image/ab6761610000e5ebd3848049ad1aea071af77b40
+267,64CJy4LTJjFj7lcDxTECn2,FABRO,FABRO,6762,52,174.607577,10,10,11,https://i.scdn.co/image/ab6761610000e5eb46ce3979f5472594b30083e1
+268,5Rj6rNR8zIlUUDCs1OyPmW,MYA,MYA,472464,62,7357.791192,10,31,45,https://i.scdn.co/image/ab6761610000e5eb3e748a80dfef04c3494af36a
+269,4aSlfXDn9R60UlbZEboBUy,YOVNGCHIMI,YOVNGCHIMI,31719,55,17.606207,0,11,12,https://i.scdn.co/image/ab6761610000e5eb4d8c21b6356b53bc4e374ce9
+270,7mXfsy3lF4kU0f2KTNKSr8,Corina Smith,Corina Smith,142821,53,184.721927,0,22,26,https://i.scdn.co/image/ab6761610000e5eb44e8e4bc1f4de805a806cf0c
+271,38epWdyauFwdRkldqUMfWE,Chucky73,Chucky73,137291,60,2216.477322,0,34,37,https://i.scdn.co/image/ab6761610000e5eb7e7f9f4544d5e3a2ee800f94
+272,2t7vyRN71qtQT18frElAnV,Maikel Delacalle,Maikel Delacalle,400346,61,7452.420122,10,40,48,https://i.scdn.co/image/ab6761610000e5eb9d451fcfcced5a4402304cdc
+273,53KTldaJ8tHSkYU3nigfwP,Fonseca,Fonseca,2361061,67,7295.162353,6,29,46,https://i.scdn.co/image/ab6761610000e5ebf415fc312ef01c6c82c2af39
+274,0AspLZGQkP38yddNoD0pLn,Mario Bautista,Mario Bautista,1642207,59,237.419418,2,15,21,https://i.scdn.co/image/ab6761610000e5eb9062037c3e483e41b9be0957
+275,4VVEpEhC8NcR7AqNEds42U,Chimbala,Chimbala,435273,67,1011.603531,13,40,54,https://i.scdn.co/image/ab6761610000e5ebf9e5460dec9c8cb301761a06
+276,2biH2I1TvZlIIIc5W14oIJ,"Franco ""El Gorilla""","Franco ""El Gorilla""",276050,58,2794.79227,3,44,84,https://i.scdn.co/image/ab6761610000e5eb604bb37c53f3b4a250527ac2
+277,32x1uogH2zajP85pzZAtuE,Axel,Axel,1323631,57,2203.397978,6,13,18,https://i.scdn.co/image/ab6761610000e5eb3e2431574940af06903aea6a
+278,4NEYQeEYBUjfaXgDQGvFvu,Franco De Vita,Franco De Vita,4095541,68,7456.477205,6,31,40,https://i.scdn.co/image/ab6761610000e5eb21fb9c2d53162906b9c23035
+279,2MRBDr0crHWE5JwPceFncq,Juan Gabriel,Juan Gabriel,6791318,73,8649.360671,6,35,53,https://i.scdn.co/image/022102638a204d6cb0bb6276ba2656f9c92bf2c3
+280,3NIZFmehJM8YiGpCdihlck,LA INDIA,LA INDIA,766387,57,4167.298748,6,11,18,https://i.scdn.co/image/ab6761610000e5eb252d4c6ef84e1efcd9825500
+281,0WZOmdnCln6FK6GM9e2tGm,Redimi2,Redimi2,1822557,63,13134.968985,8,28,86,https://i.scdn.co/image/ab6761610000e5ebf44e0586f36d65e94fce58e8
+282,0IUvQ8DrCymt5IHywZsda2,John Eric,John Eric,64537,58,69.492996,3,14,15,https://i.scdn.co/image/ab6761610000e5eb37f836ccfca349c18b6129c3
+283,5aB4SpKYteOJ8pAleoKkg7,Hector & Tito,Hector & Tito,689768,58,234.061999,3,14,21,https://i.scdn.co/image/0e005c30e982cd454a6eef07c89b0ae07e0c6b94
+284,6ModsWtBph2rE6zCTVxvZt,Maite Perroni,Maite Perroni,1141894,68,1015.162933,7,16,44,https://i.scdn.co/image/ab6761610000e5ebf804d78460a2469d69283161
+285,7xeM7V59cA1X8GKyKKQV87,Sin Bandera,Sin Bandera,4858017,69,625.071552,6,10,13,https://i.scdn.co/image/ab6761610000e5ebc013c0aa8fcc3e50677f5544
+286,49Z1AvGeUaBSanPaOmplK6,Andrés Cepeda,Andrés Cepeda,2474747,63,3810.503277,6,24,35,https://i.scdn.co/image/ab6761610000e5eb0be096b2196b0bdb00cdd63e
+287,3lY9Fxceu60W1rbon7PkuF,Omar Montes,Omar Montes,435747,70,6883.155238,10,41,55,https://i.scdn.co/image/ab6761610000e5ebb482ef57eda2cd57e7661446
+288,6k8mwkKJKKjBILo7ypBspl,Ana Mena,Ana Mena,498723,70,4676.585376,6,26,29,https://i.scdn.co/image/ab6761610000e5eb34a09797a7e38ad9330ace9c
+289,2KxjMGXFgX1vt9grpbD3xI,Dvicio,Dvicio,1039932,61,270.6438,6,16,28,https://i.scdn.co/image/ab6761610000e5ebf200f3431af03c6dc230d806
+290,12lHTAdc9T204lw5qPtasv,Foreign Teck,Foreign Teck,7510,53,1.774008,0,10,11,https://i.scdn.co/image/ab6761610000e5eb54ab334a203e461238a46c7e
+291,1phfTBIocBW3UwqcYjaEN6,Mike Bahía,Mike Bahía,2617727,66,2645.852875,2,33,54,https://i.scdn.co/image/ab6761610000e5eb051bb93744074bf628c71822
+292,0XIKGBo9PnK1ApI5tZA60d,DaniLeigh,DaniLeigh,1014196,61,41.589058,0,6,8,https://i.scdn.co/image/ab6761610000e5eb22b2d4713c50ae25a7201429
+293,5cDfQlhT80II3f2ECXm6oA,Chanell,Chanell,19513,52,8.584822,0,11,14,https://i.scdn.co/image/ab6761610000e5ebfa5f3f3ba3565c52fe74bf61
+294,2gKYxTUOqw9aPt7ljMwSHT,Orishas,Orishas,422498,55,1120.501487,6,15,17,https://i.scdn.co/image/ab6761610000e5eb53719f3b53a4ed3ec4829222
+295,2uyweLa0mvPZH6eRzDddeB,Rocío Dúrcal,Rocío Dúrcal,3202048,68,1816.554075,6,23,43,https://i.scdn.co/image/2ae2272c989c4a0921f0dd99240ef51784fda6f3
+296,3tAICgiSR5PfYY4B8qsoAU,Andrés Calamaro,Andrés Calamaro,1997190,68,17297.448588,6,33,56,https://i.scdn.co/image/ab6761610000e5ebed165e2586ad0d13b2bc078b
+297,1dJyh390MvfYPuNbhnbSDs,María José,María José,2022376,68,8083.227339,6,39,57,https://i.scdn.co/image/ab6761610000e5eb1db427adcfc7b6ba896a378b
+298,41ESHLayJ5sDKjAOv6cMhe,Ana Gabriel,Ana Gabriel,3115386,69,0.0,6,3,8,https://i.scdn.co/image/6197e7c6b9dd409219abf5e5cbe1973002dad331
+299,4mN0qcMxWX8oToqfDPM5yV,José José,José José,5113031,73,2739.310381,6,27,38,https://i.scdn.co/image/ab6761610000e5eb0c387e6ddb399d55a8e51341
+300,72v53CufRiSyqcQ78KUQ5p,José Maria Napoleón,José Maria Napoleón,861944,60,55.200658,6,5,14,https://i.scdn.co/image/ab6761610000e5eb6333b5d807b82832930171bd
+301,2DmYtFBKcxb3ajwWWgA576,Emmanuel,Emmanuel,2201565,66,3594.497671,6,15,20,https://i.scdn.co/image/ab6761610000e5eb12cfa437464e4180eb0a23fc
+302,1hcdI2N1023RvSwLzTtdsp,Natalia Lafourcade,Natalia Lafourcade,3438843,72,13482.935032,6,37,57,https://i.scdn.co/image/ab6761610000e5eb00d55232d7308bcad3108e42
+303,5pZE9tgrhmIGWAsJZ7YxNK,Luny Tunes,Luny Tunes,1370179,60,1336.653541,3,26,67,https://i.scdn.co/image/ab6761610000e5ebde69c6f9babffc5943550723
+304,7rOlQwf8OuFLFQp4aydjBt,Paloma Mami,Paloma Mami,1044393,72,125.165557,10,5,5,https://i.scdn.co/image/ab6761610000e5eb30d02875f56b6eb0cda976d9
+305,5xd2Tg7Zo8755eCy8Gxkp8,Ha*Ash,Ha*Ash,6683404,72,2954.16389,6,20,25,https://i.scdn.co/image/ab6761610000e5ebe950e4a585ee924a874014f9
+306,7mWCSSOYqm4E9mB7V4ot6S,Miguel Bosé,Miguel Bosé,2127467,68,5527.904943,6,32,52,https://i.scdn.co/image/ab6761610000e5eb7d888623c984600e6af1fdc5
+307,77aLk6J8ofnVxa1eXK9jiU,Matisse,Matisse,855615,69,3046.978209,6,23,26,https://i.scdn.co/image/ab6761610000e5eb52493594acd9b3678e9128a9
+308,2O3v9rCTzLhPFaGaAVgZLt,Río Roma,Río Roma,2453373,68,1604.216421,6,25,31,https://i.scdn.co/image/ab6761610000e5eb68c2164a213ca52f65fbd22f
+309,4RjamFQJNT8nVbTKXJDJgv,Kalimba,Kalimba,1802473,60,1955.859062,6,15,19,https://i.scdn.co/image/ab6761610000e5eb714e207a203d62693c6587a4
+310,7f02bxFbZIOVdSbYRNYvLT,Jerry Di,Jerry Di,248939,62,1653.23035,0,41,63,https://i.scdn.co/image/ab6761610000e5eb62bf24aea73d22f18f8b54fb
+311,5H1nN1SzW0qNeUEZvuXjAj,Danny Ocean,Danny Ocean,4223513,78,322.4672,0,19,24,https://i.scdn.co/image/ab6761610000e5eb5f8bb457ee2815cc276ddb9d
+312,6NAhbfEqeWELwfjH391Vz0,Bulova,Bulova,131962,50,2211.66477,13,29,39,https://i.scdn.co/image/ab6761610000e5eb2ded1511978619168d08f677
+313,4z19QMyPVRwbd4Fs2LisBa,Darkiel,Darkiel,1041470,63,1238.251761,0,45,84,https://i.scdn.co/image/ab6761610000e5ebbf92faabcb1fcfdda014fc78
+314,1mX1TWKpNxDSAH16LgDfiR,Jesse & Joy,Jesse & Joy,6506624,73,723.085319,6,17,20,https://i.scdn.co/image/ab6761610000e5ebaa2e120075652341890059e9
+315,5kSJMVPcTITrSZxTrHllVN,Vanesa Martín,Vanesa Martín,961343,64,2492.180007,6,26,36,https://i.scdn.co/image/ab6761610000e5ebcc0d81132bd8d26c7d990b29
+316,52iwsT98xCoGgiGntTiR7K,Quevedo,Quevedo,349982,84,1977.806717,10,15,19,https://i.scdn.co/image/ab6761610000e5eba2d7b5e4e64caf0eca1a82ce
+317,1SiLK8gdECx2iEm2SSj0Bl,Ak4:20,Ak4:20,505243,67,75.11239,10,7,7,https://i.scdn.co/image/ab6761610000e5ebe5ea83b5de23a89904c83e81
+318,2IMZYfNi21MGqxopj9fWx8,Rels B,Rels B,3897937,78,3710.32147,10,26,31,https://i.scdn.co/image/ab6761610000e5eb0bb169e3c278dc073b43d074
+319,6Nl4VXcX86fBMO4YE6oYfN,Asan,Asan,105818,58,578.920209,10,20,32,https://i.scdn.co/image/ab6761610000e5ebc3657d934d8dcbbb1c9f2b78
+320,2zPvDg6LI6NHPQVQIESjfW,Lara91k,Lara91k,30553,50,1564.59889,10,10,13,https://i.scdn.co/image/ab6761610000e5eb3b990d389d3f168bcde55038
+321,2qWK8K2Jfh67UqtwY8tCW6,YSY A,YSY A,1057643,70,1073.023012,10,21,35,https://i.scdn.co/image/ab6761610000e5eb3c8d2ce6ac7e9cfdf6ba2808
+322,4IG1SDlwgNKzqTmjBrvY3K,Rei,Rei,151782,68,892.698562,10,20,30,https://i.scdn.co/image/ab6761610000e5eb351497ab26eae0bc95d8d7c6
+323,1OBizG9nrnHJkrL9NjnWYN,Lucho SSJ,Lucho SSJ,295253,59,2340.890049,10,24,35,https://i.scdn.co/image/ab6761610000e5eb5cf1ef8b05cdec830fef81dc
+324,48vP5SxlTO6yOI7SLKIOQV,Obie Wanshot,Obie Wanshot,27531,54,30.056489,10,11,19,https://i.scdn.co/image/ab6761610000e5ebd7d6d1ddf37e9298033bc0c4
+325,01m2XZ7m7rAz6KY3scTdaV,Neo Pistea,Neo Pistea,979798,62,5749.212382,10,45,75,https://i.scdn.co/image/ab6761610000e5eb8c5dee7ae8ad5d42182997d6
+326,4IC2X34tZmHG3VfTbpzvwL,Julianno Sosa,Julianno Sosa,217372,69,1149.477457,10,12,29,https://i.scdn.co/image/ab6761610000e5eb30abfbcd5d54894e9340e649
+327,0Yg29FX1M4ayqjXs0ttZFq,Young Cister,Young Cister,198675,68,563.420898,10,17,29,https://i.scdn.co/image/ab6761610000e5eb097f2036dd293b408d2cea4b
+328,6H70hylNqfc86Omz8GoyDB,Tobi,Tobi,132698,52,692.092618,10,14,17,https://i.scdn.co/image/ab6761610000e5ebe0c5c2874cbd8a612b36c15b
+329,2IKdK6PbitvCiXt1t2bPU6,Mesita,Mesita,197858,61,1964.133467,10,14,27,https://i.scdn.co/image/ab6761610000e5ebc14086a25b6bdf4329420d0d
+330,348pk4o3EhKmsSahzuClSf,CA7RIEL,CA7RIEL,149097,54,471.768104,10,8,24,https://i.scdn.co/image/ab6761610000e5eb687600a13bb57ef13f075c64
+331,0VZrPa7mWAYXH4CwmYk8Km,Kidd Keo,Kidd Keo,2234672,69,3752.646356,4,9,34,https://i.scdn.co/image/ab6761610000e5eb939db8fa23c5ea603ed04554
+332,0Hkx0YcHHxDRRbH9WsSW0I,Marcianos Crew,Marcianos Crew,162361,52,324.6219,10,9,16,https://i.scdn.co/image/ab6761610000e5eb058b22aa62c696ce58ddf1d4
+333,6cC67GpmPCjQjOYLpmOGhN,Dani Ribba,Dani Ribba,340502,61,42.592877,10,12,14,https://i.scdn.co/image/ab6761610000e5ebfb21766fb6dad831cc8b7f72
+334,0dUyjgCyjfj5eMx6bX2TWf,FMK,FMK,900900,70,8184.989944,10,37,67,https://i.scdn.co/image/ab6761610000e5ebd4b856da002039eb8ce1805a
+335,4puAp107dCehraE47QXVQX,C.R.O,C.R.O,985688,70,3787.012201,10,29,58,https://i.scdn.co/image/ab6761610000e5eb7482d3ee6fb2ae5b235dec27
+336,3qiQUUvazYmo7tBgQeb2rf,Moonkey,Moonkey,85985,51,750.561418,10,14,17,https://i.scdn.co/image/ab6761610000e5ebb8e29f2dcafd7434ef2dd215
+337,3AIPhNgeF9S1Kyg9Yy3UQW,Dani Martín,Dani Martín,773876,63,3856.11459,6,23,36,https://i.scdn.co/image/ab6761610000e5eb4af41d5ca296f24f760f9cc2
+338,7qAoXV4U0qDxQAUqhszjAA,Manuel Carrasco,Manuel Carrasco,1866267,64,194.312217,6,11,17,https://i.scdn.co/image/ab6761610000e5ebe8824b7a6dffc7ac76c96ef2
+339,3TLGNOdp1UWYMnV5XG9HkR,Malú,Malú,1525791,61,2610.926574,6,25,35,https://i.scdn.co/image/ab6761610000e5ebdda586db241bf0f6e0535f91
+340,5lODCkFdEtpPn3YxfmyLfT,Armando Manzanero,Armando Manzanero,615242,56,192.031786,6,11,15,https://i.scdn.co/image/ab6761610000e5ebbada8e184bd77e4484d5f0c3
+341,5dbaLmK5SHLLg8Z4CcTJpX,Greeicy,Greeicy,5703186,69,5491.417211,2,44,74,https://i.scdn.co/image/ab6761610000e5eb3f92d719fe7223ad9fdd2be6
+342,1JbemQ1fPt2YmSLjAFhPBv,Chayanne,Chayanne,6376417,70,42.988643,6,2,2,https://i.scdn.co/image/ab6761610000e5ebe2efbe510ede3ecd9db620f0
+343,3VCrybIJKH7UurbDcZbMmn,Cami,Cami,739843,64,1354.702061,2,8,17,https://i.scdn.co/image/ab6761610000e5ebe6034cb3c8300c09cd179fea
+344,1d6dwipPrsFSJVmFTTdFSS,Paulina Rubio,Paulina Rubio,2402107,66,1123.624342,6,13,30,https://i.scdn.co/image/ab6761610000e5eb020121a20d0935ee98019469
+345,2urF8dgLVfDjunO0pcHUEe,Alvaro Soler,Alvaro Soler,1600011,70,236.257045,2,12,17,https://i.scdn.co/image/ab6761610000e5eb4f66ae1f0b375991c6d9ca2d
+346,4Sm7JCttzWMwHJtb3UJ8SY,Mocedades,Mocedades,565338,55,2019.902372,6,16,28,https://i.scdn.co/image/ab6761610000e5ebf1f84eda0a59383aedc5bcbc
+347,1dbp04JzZ81JXlMGupCnJ8,Antonio José,Antonio José,481639,61,1308.835377,2,18,28,https://i.scdn.co/image/ab6761610000e5ebf426747381f6b2e75f2cca34
+348,1mux8L6xg2Cmrc7k0wQczl,Bacilos,Bacilos,1493927,66,3.365881,2,3,5,https://i.scdn.co/image/ab6761610000e5eb2297c714549631dbd9a24024
+349,4TCAAIMmeZXCTVlHUsicOn,"Héctor Acosta ""El Torito""","Héctor Acosta ""El Torito""",688126,57,568.437757,3,13,21,https://i.scdn.co/image/ab6761610000e5eb09852b1b82e758366f576bd0
+350,7fT2Me47PQ8T7954PKrcwR,Bhavi,Bhavi,944752,65,4016.520953,10,35,58,https://i.scdn.co/image/ab6761610000e5eb851ae4ad6527c02b397337a4
+351,5UN0rzL594mWY2RbOtZqIN,Ptazeta,Ptazeta,109606,64,4046.164216,10,18,18,https://i.scdn.co/image/ab6761610000e5eb0a04d3ebf0fda9a2b3a568ec
+352,3p3jPcp8b7WL9XYj4xlsWj,Snow Tha Product,Snow Tha Product,531490,63,558.702989,2,13,16,https://i.scdn.co/image/ab6761610000e5eba7de9f1c290f2e932fe83d90
+353,1aw0Cdl1DIrtUrUA6fGbAR,Dread Mar I,Dread Mar I,2297351,69,459.213972,10,8,9,https://i.scdn.co/image/ab6761610000e5eb2d7e2fd5cf6d093294dfab6e
+354,0bYQe0JDIjxkSHQoXlfngl,ACRU,ACRU,291986,50,43.705061,10,6,6,https://i.scdn.co/image/ab6761610000e5ebb4985306d52643aaa2b57008
+355,1vqR17Iv8VFdzure1TAXEq,LIT killah,LIT killah,3675571,74,1865.186381,10,31,60,https://i.scdn.co/image/ab6761610000e5eb67d0ad198019f83fe131304b
+356,6AT27ojKlBuZToFIGwQZDc,Sammy & Falsetto,Sammy & Falsetto,310705,51,44.494649,0,16,21,https://i.scdn.co/image/4cd90c5d3de7d6fe736bc420bf217092a39741eb
+357,6ZtLRqHEkAXPWVw0eRbDac,Jeeiph,Jeeiph,197269,53,186.15389,0,18,30,https://i.scdn.co/image/ab6761610000e5ebaffb1ff4c5c90d1bcbff3023
+358,2TQ4CGgxxCWHqa9yYIGDoU,Big Soto,Big Soto,794828,66,10535.855796,2,52,112,https://i.scdn.co/image/ab6761610000e5ebfcc91102f40f5daed383740a
+359,22P1OY4TRFRwhP0q29loQ8,Lali,Lali,1361280,66,2928.42725,6,17,27,https://i.scdn.co/image/ab6761610000e5eb36bd1496e4f707f8a6a5774d
+360,7yjRUA0Iz3VI4Kqa5oPJZK,Jd Pantoja,Jd Pantoja,3292225,57,179.869879,0,15,20,https://i.scdn.co/image/ab6761610000e5eb5e7555acb14b80f9e79c8561
+361,5BwMgvRwlq61SmknvsVIQj,Rubén Blades,Rubén Blades,1188323,62,0.0,6,10,12,https://i.scdn.co/image/ab6761610000e5ebdea0cd678edd47fe4b31e3c7
+362,27vNK840zYq6IfDijHPsv1,Gilberto Santa Rosa,Gilberto Santa Rosa,2138315,67,5532.769019,6,29,46,https://i.scdn.co/image/ab6761610000e5eb641d131db6eedeb6fa77e811
+363,6i3DxIlAqnDkwELLw4aVrx,Lele Pons,Lele Pons,1108371,61,182.492458,0,15,17,https://i.scdn.co/image/ab6761610000e5eb99cbf685383bb1d6db59b056
+364,7wOZy3KdFVVINgNFFxkxwO,Jerry Rivera,Jerry Rivera,1403781,64,0.0,6,3,5,https://i.scdn.co/image/ab6761610000e5eb58f5558a4dbb6d809bae1e6f
+365,5IFCkqu9J6xdWeYMk5I889,Gloria Estefan,Gloria Estefan,626644,64,4050.296903,6,8,13,https://i.scdn.co/image/ab6761610000e5ebcb6ddcef04b60c7078151ac7
+366,4LbuSjHhhAddvN44qXpRJo,Amaia Montero,Amaia Montero,1025631,57,156.907904,6,8,13,https://i.scdn.co/image/ab6761610000e5eb1887f68f59e3f555754ebf2e
+367,6ZZ2DeepA3GpoGU4KwqSlU,Luciano Pereyra,Luciano Pereyra,1827739,63,4065.280217,6,18,27,https://i.scdn.co/image/ab6761610000e5eb501452b1e16776dba96b5cde
+368,4boI7bJtmB1L3b1cuL75Zr,Mon Laferte,Mon Laferte,4673827,71,7808.162275,6,24,36,https://i.scdn.co/image/ab6761610000e5eba0cf570a96052c5243dcd4b6
+369,65HuWBUC1d8ty1q6J42Nfi,Cultura Profética,Cultura Profética,1624990,63,162.655488,2,4,5,https://i.scdn.co/image/ab6761610000e5ebc0e6ef1328f6e2d4b20cfd3c
+370,2jw70GZXlAI8QzWeY2bgRc,Nelly Furtado,Nelly Furtado,3237874,74,370.702335,6,11,26,https://i.scdn.co/image/ab6761610000e5eb4cd5711d0422af7209cdf37a
+371,1bZNv4q3OxYq7mmnLha7Tu,Fito Paez,Fito Paez,1289893,63,3594.603107,6,15,23,https://i.scdn.co/image/ab6761610000e5eb48a2c040284bcba297a4e6a6
+372,1I7FVmvisCtSFzmm87mbLR,El Búho,El Búho,113245,51,785.0,6,3,3,https://i.scdn.co/image/ab6761610000e5eb47873d612508daa55adfc587
+373,6GRC8segVAr34gm6pjfSoQ,Fanny Lu,Fanny Lu,846702,58,8702.951337,3,17,21,https://i.scdn.co/image/ab6761610000e5ebd68ffbdb2e562fdd4eb866b5
+374,4OgNARLQSC4yy7Dsa5cqxx,Yuri,Yuri,1922303,64,6764.964711,6,37,58,https://i.scdn.co/image/ab6761610000e5eb08d697859c0b6ad074734d04
+375,4d3kmfoZBTuUPSUjgP45uo,Lérica,Lérica,68520,61,1960.931651,6,30,44,https://i.scdn.co/image/ab6761610000e5ebce4d1d7eab65a93569a2886b
+376,768O5GliF0bqscyghggrbE,Polimá Westcoast,Polimá Westcoast,261294,77,4727.333015,10,31,53,https://i.scdn.co/image/ab6761610000e5eb76af908f3cfcac6cf6b5c220
+377,6bxjoq64Y0HTfMc4GIbpyJ,vf7,vf7,52996,53,188.366145,0,17,23,https://i.scdn.co/image/ab6761610000e5eb256416ec38d69db00f28182d
+378,7zY0DMisq1oYXvNNgGwHBY,Juanfran,Juanfran,124339,53,104.333911,0,13,15,https://i.scdn.co/image/ab6761610000e5ebbef5b9ac1a9d20214eade811
+379,2Jb9jVnCpWkXtoGznFJ6bF,Ecko,Ecko,992787,62,4637.886083,10,31,43,https://i.scdn.co/image/ab6761610000e5ebd84d831dd03085bd459a8bb4
+380,03Yb3iBy9GCifXiATEFcit,Pepe Aguilar,Pepe Aguilar,3677951,69,1339.295402,6,12,15,https://i.scdn.co/image/ab6761610000e5eb6b204aa054bc0ce378462976
+381,3mXI2gpwWnNO9qbQG3n3EP,Lila Downs,Lila Downs,375336,58,4970.156052,6,25,33,https://i.scdn.co/image/ab6761610000e5eb5341360a8dfbde93f727e747
+382,24dYJ8P3YuFihvMcElFUWh,Pedro Fernández,Pedro Fernández,1653607,59,175.372138,6,7,13,https://i.scdn.co/image/bd77e376a84d6042c021399de0ec3f300dacd84a
+383,69BUYvpG9MbjCyIZfsFdhJ,Reyli Barba,Reyli Barba,1505831,63,9224.530964,6,28,36,https://i.scdn.co/image/ab6761610000e5ebc2ab48da78edcd1f929eb096
+384,6gvh8pQI316iafbHiT7B3y,Daniela Romo,Daniela Romo,841129,58,145.357605,6,11,18,https://i.scdn.co/image/ab6761610000e5eb14ddb86dcb0887b8479b4c86
+385,3t7UqWteBBmHXkcVhMSyay,Leonel García,Leonel García,657565,63,10418.053445,6,43,64,https://i.scdn.co/image/ab6761610000e5eb6ae5accfce3af95725a80b75
+386,44nb9BaqV2jVvxKCaXHwlP,Pandora,Pandora,268876,58,1655.008455,6,19,30,https://i.scdn.co/image/ab6761610000e5eb1fc64f81515cd5d1a08c0bab
+387,2gDqGAadPIPiA7LtmNn74g,Gian Marco,Gian Marco,1169459,61,1180.32054,6,15,18,https://i.scdn.co/image/ab6761610000e5eb4ea81c45c3e7f96244ece553
+388,7afXSXOa8dE3c2C5XIguAv,Edith Márquez,Edith Márquez,1065516,61,274.012341,6,13,15,https://i.scdn.co/image/ab6761610000e5eb1d4621cdfd025be285e2cfdd
+389,54jti4nqabEAlBvIDU2zt8,Francisco Céspedes,Francisco Céspedes,213088,53,0.0,6,4,5,https://i.scdn.co/image/ab6761610000e5eb72732d0f6007b00c6544fd37
+390,6ZvYYrrfpb1Z7kICDyxWQE,DEKKO,DEKKO,370078,68,54.50002,2,12,14,https://i.scdn.co/image/ab6761610000e5eb4a4ca27e5aaeaa355e140c86
+391,4JreHVYyb6GqE2BU03Kx96,Dayme y El High,Dayme y El High,236161,52,1026.471512,0,38,48,https://i.scdn.co/image/ab6761610000e5eb6010e5e6e5c0ef91c5d4f7cf
+392,2gRP1Ezbtj3qrERnd0XasU,Camila,Camila,3617038,69,376.739121,6,10,11,https://i.scdn.co/image/ab6761610000e5eb74dc5cfab4be58a97ab61d35
+393,60XHOAhvEBiV6BGBOv8ClM,La Joaqui,La Joaqui,112591,56,39.4945,10,3,5,https://i.scdn.co/image/ab6761610000e5eb1eab49a3319fcdc0f5f811d3
+394,1wGIhYkKWSq4yACtTkCkSX,Canserbero,Canserbero,4819393,70,397.459368,2,4,5,https://i.scdn.co/image/ab6761610000e5eba91405d63c939682e4efdcbc
+395,1PNgAcUW6UgN59okEaTpvG,McKlopedia,McKlopedia,221320,56,6079.966218,2,16,20,https://i.scdn.co/image/ab6761610000e5eb694816ed931f729d5effe689
+396,451DVjaBuGYfvDfvG9MxaG,Rapsusklei,Rapsusklei,310111,51,6203.469827,13,18,24,https://i.scdn.co/image/ab6761610000e5eb6b615e13073a7fe9cf9dad64
+397,6TASDj2ogOKQptnxgEvrcP,Jowell,Jowell,134149,51,361.210066,3,19,32,https://i.scdn.co/image/ab6761610000e5eb72ed00b47de529c724bb64c2
+398,1ykothWH0xl8drRyJWuw7I,Ñejo & Dalmata,Ñejo & Dalmata,1183920,62,0.551162,0,8,18,https://i.scdn.co/image/ab67616d0000b2734a2cfa7ff9391b0b9d83fab1
+399,6UBb8ZUUyarsyod6snflAR,J-King y Maximan,J-King y Maximan,151553,52,846.498844,3,38,50,https://i.scdn.co/image/ab6761610000e5eb9e37198ae7bd14f898e35ccd
+400,0FDJB5xf8i09jDjIg1qNED,Carlitos Rossy,Carlitos Rossy,256035,50,1470.53622,0,28,86,https://i.scdn.co/image/ab6761610000e5eba27dc91963fe26a981bdbcdd
+401,6ZK8loFAzWKSFe3b7Lrq4V,Nova y Jory,Nova y Jory,785772,55,4.06569,0,14,19,https://i.scdn.co/image/ab67616d0000b2735c773ae14a1460b04ae8ab04
+402,4pv1Jo4PbYI8LMADJoTWjE,Olga Tañón,Olga Tañón,724452,60,132.518866,3,8,10,https://i.scdn.co/image/ab6761610000e5eb8260eae50a89f1292772b441
+403,4vOycwLXdkMMzpZW04VW5m,Tito Nieves,Tito Nieves,1111833,60,1825.566825,6,9,16,https://i.scdn.co/image/ab6761610000e5eb75c86c08848892e3996655cb
+404,0UTsdD7VIsEB9i7a6DDx5t,Lapiz Conciente,Lapiz Conciente,251958,50,1519.402074,13,19,21,https://i.scdn.co/image/ab6761610000e5eb62b108db4f058e282208abd3
+405,66lf5bQo2BIEue1pxfgxQS,John C,John C,210699,57,127.497729,10,9,15,https://i.scdn.co/image/ab6761610000e5eb88cce591764e5d0dc95fb563
+406,4uqzzJg3ww5eH7IgGV7DMT,Bunbury,Bunbury,2077620,67,5034.886037,6,19,28,https://i.scdn.co/image/ab6761610000e5ebfbd4d3ee2ef5070e0aa234c0
+407,2z3KntXLyEF5Lvz1kpdBoA,Caloncho,Caloncho,644504,63,1279.877942,6,8,11,https://i.scdn.co/image/ab6761610000e5ebe051a92b55113af37e881a91
+408,3ZtIhDSOuRkpDyqjx53X1R,Esteman,Esteman,261697,61,4615.259507,6,17,22,https://i.scdn.co/image/ab6761610000e5eba13eeedbbad39601b0a13de9
+409,5NS0854TqZQVoRmJKSWtFZ,Chino & Nacho,Chino & Nacho,2361856,64,508.474913,3,15,33,https://i.scdn.co/image/ab6761610000e5ebcd07df3b3284d11536a1b00b
+410,4tLUnrSgMM7tT0zVs3wX61,Daniel Santacruz,Daniel Santacruz,122741,53,1905.292531,11,7,10,https://i.scdn.co/image/ab6761610000e5eb32a06509a9fadda25868e328
+411,0GWdY55YF6xzN5L1A0X8nq,Pitizion,Pitizion,101435,53,3475.539012,2,14,18,https://i.scdn.co/image/ab6761610000e5eb5afcc391d8e3876040a109ed
+412,3rqKgkODmiyDdimpz5D3y1,Yannc,Yannc,47436,52,96.242535,0,17,23,https://i.scdn.co/image/ab6761610000e5eb288410ce07aac7ca0dd2752d
+413,13VwGEitoK8J0qjNjbgeTN,Flex,Flex,235060,61,818.866319,3,10,14,https://i.scdn.co/image/ab6761610000e5eb3a75d12c95348c6bbfd56c7a
+414,3smfreCkyJt7bShaTYpG77,Carlos Baute,Carlos Baute,1686892,63,1066.698168,6,19,30,https://i.scdn.co/image/ab6761610000e5eb34b622aa23d008f8c59e92d6
+415,4EcIU574ksr6mC1GMEOe0p,Midel,Midel,325856,53,165.165805,10,14,23,https://i.scdn.co/image/ab6761610000e5ebf8dc60cf6517ac24c1b2134f
+416,4C29ETLBPmYKYwtJUepbJz,Seven Kayne,Seven Kayne,1100801,63,398.701666,10,20,26,https://i.scdn.co/image/ab6761610000e5eb3d1ed5beb2d6e6257dfc9b42
+417,3Apb2lGmGJaBmr0TTBJvIZ,Rusherking,Rusherking,924115,71,6592.281663,10,29,52,https://i.scdn.co/image/ab6761610000e5eb0da6be77755f7dc658759351
+418,6IdtcAwaNVAggwd6sCKgTI,Zoé,Zoé,4235523,71,0.0,6,1,1,https://i.scdn.co/image/ab6761610000e5eb2a7f6c818d24ac776151aefc
+419,5ClJtuiNlr83ua45Dvpcf7,Santiago Cruz,Santiago Cruz,878517,57,1667.093318,6,15,19,https://i.scdn.co/image/ab6761610000e5eb8cb8c4a306356d4e72f12e18
+420,0K59Fm1y7s3j498ueS4qzY,Soledad,Soledad,418712,58,11418.480718,6,31,33,https://i.scdn.co/image/ab6761610000e5ebffcd68a1cc895a489f557023
+421,43hb5av90CTCWFldaaTp7n,Erik Rubin,Erik Rubin,268738,53,0.0,6,3,7,https://i.scdn.co/image/ab6761610000e5eb3dc138e76e7b27bb0e25dfb7
+422,3jO5UGHrEzfd5YIamfs7Ir,Kumbia Kings,Kumbia Kings,280546,53,1.235802,6,2,2,https://i.scdn.co/image/ab6761610000e5ebd802587be4827c71e3e75855
+423,4aeIWo5CMF1uRmqgJdwkZW,Joaquín Sabina,Joaquín Sabina,2531335,66,228.743536,6,14,24,https://i.scdn.co/image/ab6761610000e5ebd30f9a429e2aa4eb9d1ddf21
+424,66ArjpKRgw8vYBf9yhktto,Nach,Nach,772012,57,4492.472512,13,11,11,https://i.scdn.co/image/ab6761610000e5ebebefb385e141777c485dc3d6
+425,5XsWrYhwadPBjW20qYbdZg,Moderatto,Moderatto,756518,63,3841.602538,6,13,24,https://i.scdn.co/image/ab6761610000e5eba2bb7c400bbdd36de742e9fc
+426,3SCOuAxngTC1yGjKMcIPEd,Lasso,Lasso,344779,72,900.587247,2,13,24,https://i.scdn.co/image/ab6761610000e5ebaad998c3d8ff77f2b90b66e7
+427,4nXXIxTneJksvGXrlmX8oA,Kaydy Cain,Kaydy Cain,362875,62,1798.021158,10,23,55,https://i.scdn.co/image/ab6761610000e5ebb8f598224caa8b1371059864
+428,4bJh7sMPcVRiqe5jlnsWQV,DELLAFUENTE,DELLAFUENTE,575101,63,1008.902565,10,12,22,https://i.scdn.co/image/ab6761610000e5ebe9aeecbe10830137c4816b8c
+429,0adJG3bdFTHCkTY28NkY4u,Bejo,Bejo,222623,66,4651.001977,10,19,38,https://i.scdn.co/image/ab6761610000e5ebf3ba08ecd314e20cea240a45
+430,3qndygm4Vx7bEW8tNyDKSY,Camin,Camin,88046,58,1203.137705,13,18,26,https://i.scdn.co/image/ab6761610000e5eb98637c971c31b778bc81c5d0
+431,0zGM73sadbAOBLev02P8LO,Monica Naranjo,Monica Naranjo,617040,59,30.552933,6,3,5,https://i.scdn.co/image/ab6761610000e5eb811a2c80493660e20ad2fc22
+432,6PmfbeAL7jAauFPNyQ5UPi,Celso Piña,Celso Piña,265200,57,0.0,6,5,7,https://i.scdn.co/image/ab6761610000e5eb600a29970718d0224b5dbc2e
+433,132xFnGXTZoDfZWuMDE4tc,María León,María León,56399,56,470.987306,6,14,18,https://i.scdn.co/image/ab6761610000e5eb0839ae679be9a0067c1251d7
+434,108moq3rq6bm1M4Ypz0J02,Intocable,Intocable,2793788,72,306.90721,6,7,7,https://i.scdn.co/image/ab6761610000e5ebe364b70e75860fb98604fb0f
+435,5vLOlJcOKe9DfBC5LeLpSs,Lucas Arnau,Lucas Arnau,240920,52,308.55652,6,9,9,https://i.scdn.co/image/ab6761610000e5eb4a237edd6d1813444225a8db
+436,5RwfJb8wxN1fuodcPORVxP,José Luis Perales,José Luis Perales,1826639,63,348.743332,6,5,22,https://i.scdn.co/image/4758fc2c8895a4889fe887ea7198dd7d4e14464f
+437,15YnmlNukYCFvwaFnoDwwV,José Luis Rodríguez,José Luis Rodríguez,829504,59,844.334794,6,8,13,https://i.scdn.co/image/ab6761610000e5ebc70544f7af8dcacedbd2dc75
+438,2HvyR5FsU37QMqVzIbGwl7,Mercedes Sosa,Mercedes Sosa,765730,57,6832.267887,6,24,33,https://i.scdn.co/image/ab6761610000e5eb513c5e2928bba4a3d4608eb4
+439,2Cy7KBSkqu7otJfuMTWT7Y,Camilo Sesto,Camilo Sesto,3071949,64,121.970525,6,6,7,https://i.scdn.co/image/6727cf7e3163bd702add0ba3a7b4083ae956fe98
+440,6qhOH2mrlqUDod9sWA5kR2,Leo Dan,Leo Dan,2104194,66,5976.910651,6,22,22,https://i.scdn.co/image/ab6761610000e5ebf4ec89abadc41dbee74502b0
+441,6HTUcOExehqydqa7C3usAa,Abel Pintos,Abel Pintos,3172574,67,6521.490705,6,28,40,https://i.scdn.co/image/ab6761610000e5ebf55f98e211caf7acffcfdd7e
+442,5B8ApeENp4bE4EE3LI8jK2,Yuridia,Yuridia,2848729,70,459.923446,6,12,16,https://i.scdn.co/image/ab6761610000e5eb1e7d48150ced6100142a7138
+443,5YCc6xS5Gpj3EkaYGdjyNK,WOS,WOS,2853119,71,314.823976,10,8,9,https://i.scdn.co/image/ab6761610000e5eb632866253c99e4531985aa1a
+444,5FQJWdcKPAijmEi4uroZ4h,Leïti Sene,Leïti Sene,31685,52,400.694862,10,7,12,https://i.scdn.co/image/ab6761610000e5eb5231afdf967b4a90a9665538
+445,0i5iO6icb7kxg48thi9gBM,Manuel Medrano,Manuel Medrano,2130309,65,97.09165,6,7,9,https://i.scdn.co/image/ab6761610000e5eb8f4ed6fa785cdb13c3e1f9db
+446,7npqy7rgdX2D3yfVyWExKo,Angel Y Khriz,Angel Y Khriz,862702,63,867.046445,3,19,23,https://i.scdn.co/image/ab6761610000e5eb4f12341242c8c3167d5c2ae2
+447,26YAHs5On4KQDNsU2cYFdL,Casa De Leones,Casa De Leones,532398,53,0.0,3,1,1,https://i.scdn.co/image/ab67616d0000b2735363f398f1c076404f307760
+448,6HqgxkTt9KGyt27zYrwVan,Super Yei,Super Yei,356266,62,9.566143,0,21,59,https://i.scdn.co/image/ab6761610000e5eb7e8750c1d60323f205d8f76d
+449,1a2HwAlOE2wUPmNisvZxSw,Big Yamo,Big Yamo,48426,59,0.0,3,1,1,https://i.scdn.co/image/ab6761610000e5ebe3c0f973ca9b3af2daeef525
+450,1ne2c2YEgt4MmJCJGCsfsZ,Ely Guerra,Ely Guerra,364203,51,0.0,6,4,4,https://i.scdn.co/image/ab6761610000e5ebe1bb310836f08c0877112944
+451,4ssUf5gLb1GBLxi1BhPrVt,Jorge Drexler,Jorge Drexler,701468,64,4885.924843,6,20,35,https://i.scdn.co/image/ab6761610000e5ebda79b27fb7ed372c7df916fc
+452,3HrbmsYpKjWH1lzhad7alj,Los Auténticos Decadentes,Los Auténticos Decadentes,1718253,67,7495.416513,6,26,33,https://i.scdn.co/image/ab6761610000e5eb39bb27c9cc186cb2479a48d6
+453,11mqrDSFRRz8g0Wb3syJj5,Panteon Rococo,Panteon Rococo,2220594,65,1080.578003,6,10,12,https://i.scdn.co/image/ab6761610000e5eb32da892bd74fedc3a32bf16f
+454,7qjoG7bwhAjSd7nJTcjgAk,Kevin Johansen,Kevin Johansen,330546,55,78.025351,6,6,13,https://i.scdn.co/image/ab6761610000e5eb3bf69466fac25464cb8652e6
+455,7plUpXSFcSJUZSiZAoXqr1,Ximena Sariñana,Ximena Sariñana,1262450,64,8219.614293,6,24,33,https://i.scdn.co/image/ab6761610000e5eb3769a26bbfcf734c80590652
+456,4ClsVDy2g7RKSSlvq8cF6d,León Larregui,León Larregui,1716798,65,129.335412,6,4,4,https://i.scdn.co/image/a39283ebc434e867bbfa42818764a2c4b432edca
+457,25THA9HUHoxpCT4LBp7UsZ,Vicentico,Vicentico,1392853,64,4091.764486,6,15,22,https://i.scdn.co/image/ab6761610000e5ebbb862018edbbaeaeb0f960d0
+458,7zLcnirfgw1VEHHshuGcDR,Eddie Dee,Eddie Dee,440572,56,8.740748,3,6,8,https://i.scdn.co/image/ab67616d0000b2738f41487d9316d9cf87307959
+459,1c84wItoiAe1pEbpJMqUmQ,Oscar D'León,Oscar D'León,1198259,57,302.516747,6,7,8,https://i.scdn.co/image/01a4bd3a5b74f35a8d47961c3bfcb94206eda751
+460,29SeiO68HQHBs7pDdWOvvX,Jesús Adrián Romero,Jesús Adrián Romero,3381133,70,4203.541111,8,12,20,https://i.scdn.co/image/ab6761610000e5eb4375c6be9120788fd0d33959
+461,03CueHDpVcwXQZHeBlZUkd,Marcos Vidal,Marcos Vidal,343146,50,1151.58234,8,6,8,https://i.scdn.co/image/ab6761610000e5ebb040409d45a029bae4aa4ccd
+462,2zF0KCQEt1O4Z9fWVUVi4T,Marcela Gandara,Marcela Gandara,1447690,63,1807.405301,8,14,19,https://i.scdn.co/image/ab6761610000e5ebcd641d42ef6d9f9c33e34e62
+463,6slyJwua5e5GuhuP82sTHR,Alex Campos,Alex Campos,1438392,61,11309.652074,8,29,43,https://i.scdn.co/image/ab6761610000e5ebfa943ac8eb39fcf83eb5642a
+464,6vetaGijEBK3wfhtCUWRBS,Lilly Goodman,Lilly Goodman,1343461,61,1447.814798,8,6,8,https://i.scdn.co/image/ab6761610000e5ebe2d4af0f574f417083634d3e
+465,0UH4eoqwQgADwRoaKtEKc1,Abel Zavala,Abel Zavala,471959,52,0.0,8,2,3,https://i.scdn.co/image/ab6761610000e5eb2542f88573dc59f36adaa53d
+466,2CCgb0KApjfQDuTppovpf8,Rvfv,Rvfv,289231,73,2355.764832,10,23,30,https://i.scdn.co/image/ab6761610000e5ebe5a07f5f18128eaae12f8756
+467,0NnUMWDCDi1snuMja6IdxH,Harry Nach,Harry Nach,205675,64,1212.970483,10,20,29,https://i.scdn.co/image/ab6761610000e5eb8daed617f11b7b3e2b4063a6
+468,3wsYquQ9CiMlYG54BUR2ff,ZARAMAY,ZARAMAY,171197,56,2102.537138,10,14,14,https://i.scdn.co/image/ab6761610000e5eb549c7c08031606b62b600917
+469,2AZOALDIBORfbzKTuliwdJ,Cristian Castro,Cristian Castro,2549100,69,3014.553069,6,17,20,https://i.scdn.co/image/45025bd1014527e8f113b22fa647da7a142c3d6c
+470,4FeDV8T2wgjzYKBamSp7MG,Enrique Guzman,Enrique Guzman,470880,53,251.185859,6,11,12,https://i.scdn.co/image/ab67616d0000b273a18523f50067d4390dd86b97
+471,7x6XYw3yCC67Pizi4o0wvZ,Sergio Dalma,Sergio Dalma,698408,57,8.301773,6,5,6,https://i.scdn.co/image/ab6761610000e5eba29b51a76dea896c5ef258db
+472,0PbO1lSBsJPgyqdEypJJVb,Dyango,Dyango,773156,55,118.581857,6,4,13,https://i.scdn.co/image/ab6761610000e5ebe903b825e2e5b42ad7db38a6
+473,2eEmsgWmUFMbtU7agJpnjY,Miranda!,Miranda!,841323,66,4192.762093,6,14,16,https://i.scdn.co/image/ab6761610000e5eb9c7c6dc9d7ade38e819ca20b
+474,4WOIfFwyvx22jM0eg2fpKv,Kinky,Kinky,466403,55,1763.228415,6,9,12,https://i.scdn.co/image/ab6761610000e5eb0de6cd4c427eaff96120b571
+475,2bimgkRmsxRhhuWsOnd5rz,Tercer Cielo,Tercer Cielo,1410412,60,591.905506,8,6,10,https://i.scdn.co/image/ab6761610000e5ebd2b36358bf75e563b3ecd756
+476,63xFjf6Ww22O5gHrBP79G9,Marcela Morelo,Marcela Morelo,62636,51,425.550971,6,8,11,https://i.scdn.co/image/ab6761610000e5ebf384d79083e6d6dbc243e52e
+477,2Eo4Yaukt9d6dnZrY5hQKi,Ciro y los Persas,Ciro y los Persas,846706,59,0.0,6,3,3,https://i.scdn.co/image/ab6761610000e5eb439eadc5f7ffbc3824332eea
+478,5Hsv8dUHHOdnn72q4XIVz7,Leiva,Leiva,612481,63,6649.774955,6,29,35,https://i.scdn.co/image/ab6761610000e5eb52a11e3ff6141b14a5858860
+479,1QZuAtDYNrk2QMogJulsyq,Karina,Karina,219276,57,82.869102,6,3,3,https://i.scdn.co/image/ab6761610000e5ebdba73bd27e482df38a60788b
+480,4IjHltwoSKbUeZLPeULyDe,Nahuel Pennisi,Nahuel Pennisi,78732,58,53.886318,6,5,6,https://i.scdn.co/image/ab6761610000e5eb98c43d75ea59418d50c18acd
+481,60uh2KYYSCqAgJNxcU4DA0,Hombres G,Hombres G,3160195,70,3017.314455,6,11,14,https://i.scdn.co/image/ab6761610000e5eb04c4062671c216a926f425f2
+482,4TK1gDgb7QKoPFlzRrBRgR,Los Enanitos Verdes,Los Enanitos Verdes,3077213,70,1601.431879,6,6,8,https://i.scdn.co/image/0a44319db623b112c3fddca7a1ef88b5756265cd
+483,5YekZn3GGnPIURNA6RG124,Ana Torroja,Ana Torroja,594077,59,2206.297296,6,18,27,https://i.scdn.co/image/ab6761610000e5eb8b292ea605f0b366b81b66d5
+484,2byU53ebtTxcAnIRE814Ts,Bebe,Bebe,427465,57,938.995538,6,10,11,https://i.scdn.co/image/ab6761610000e5eb8608e12e17314f7b7469a1c2
+485,2Otnykd696YidQYfEGVmNq,Vicente Garcia,Vicente Garcia,383274,62,401.273921,6,8,11,https://i.scdn.co/image/ab6761610000e5eb80a6da5c611ee9eca093619b
+486,4DjY0CaKAejJgghVHTaOUy,Toño Rosario,Toño Rosario,236097,50,0.0,3,5,6,https://i.scdn.co/image/ab6761610000e5eb5c7b8cb736b57270d008f50e
+487,5Uox3n7m4W2CoM9MmHPJwQ,Delaossa,Delaossa,166547,60,6332.061574,10,20,49,https://i.scdn.co/image/ab6761610000e5eb844a5425369facf36685a3ab
+488,3ou3XMRNmyDSy6gnC1bSgN,TAICHU,TAICHU,66185,52,1063.456067,10,6,8,https://i.scdn.co/image/ab6761610000e5eb1cde425c173b7541b13154e0
+489,4ZDoy7AWNgQVmX7T0u0B1j,No Te Va Gustar,No Te Va Gustar,1836500,66,722.235775,6,7,10,https://i.scdn.co/image/ab6761610000e5ebfa902c2fd91243e63cdd2a78
+490,5yoimVE1rbc3kAx4uwr7eq,León Gieco,León Gieco,235620,52,2614.363758,6,14,25,https://i.scdn.co/image/ab6761610000e5ebd416a44868fd0c1467b10052
+491,368rTiMKMrz3b03az6B14w,Marta Sánchez,Marta Sánchez,321457,62,294.977241,6,10,14,https://i.scdn.co/image/ab6761610000e5eb0564f328f301441b8e640bd7
+492,17vZy9fIIt6woqdWfc7UCy,Sinfonico,Sinfonico,112228,55,76.503129,0,14,22,https://i.scdn.co/image/ab6761610000e5eb5194cb5aa83698d3b6c543d2
+493,5wUO3A6DT4tO5UDz21kE2Y,Neutro Shorty,Neutro Shorty,662216,62,6324.094865,2,30,70,https://i.scdn.co/image/ab6761610000e5ebddfb98195479b7e1a754ce2b
+494,4U7lXyKdSf1JbM1aXvsodC,La Oreja de Van Gogh,La Oreja de Van Gogh,2928349,70,723.586388,6,10,14,https://i.scdn.co/image/ab6761610000e5ebc9ea82332c05d870ce3cfe6e
+495,2tY2GFdhH0Wa2VBvsxew5X,Alex Ubago,Alex Ubago,1884595,64,2980.20242,6,17,26,https://i.scdn.co/image/ab6761610000e5ebe39d6ee27ad7186cb9c6f4c3
+496,4cA5JN7tiNZ8afYeuSQj5h,David Otero,David Otero,157728,56,0.0,2,2,3,https://i.scdn.co/image/ab6761610000e5eb5031d5cc7354f6d82f2ff35d
+497,6IE6z7DcZIT4Ml3Fh5Ivch,Selena,Selena,2867275,69,507.84374,6,5,12,https://i.scdn.co/image/ab6761610000e5eb2c4b4251247aa30c7b6de155
+498,7p5DVejD1eXP8GO6clYQlE,Alvaro Torres,Alvaro Torres,247400,54,12.106556,6,4,8,https://i.scdn.co/image/ab6761610000e5eb88026d16cdb20899234a4eb5
+499,5l4GdLELvdnXZVT5g947i3,LOUTA,LOUTA,154876,58,1075.030955,10,8,8,https://i.scdn.co/image/ab6761610000e5eb80d72d75245d1e6c2441b87b
+500,5wx70QuZtxRUIIYek3RSaV,Carolina Ross,Carolina Ross,372514,57,225.863274,6,4,5,https://i.scdn.co/image/ab6761610000e5eb4963f8157e013589e9524e1b
+501,4rUyBlggM5tZUH5QZn9ZuO,Silvio Rodríguez,Silvio Rodríguez,1146130,62,0.0,6,2,4,https://i.scdn.co/image/ab6761610000e5eb3e4b2f8a1f5fd4b9fab35b9f
+502,26nStRV6Waedt17W4Uhx6l,John Leguizamo,John Leguizamo,3396,51,0.0,6,1,1,https://i.scdn.co/image/ab67616d0000b273395104ddd7e4f695b05ea987
+503,26BL0aeVS96sje8JfCNfUk,Totó La Momposina,Totó La Momposina,105527,51,0.0,6,3,4,https://i.scdn.co/image/ab6761610000e5eba432fea798179006ae025134
+504,09xj0S68Y1OU1vHMCZAIvz,Café Tacvba,Café Tacvba,2522435,67,16.5564,6,3,3,https://i.scdn.co/image/ab6761610000e5ebf38da67f8b1ee80e75a9eab7
+505,0xbdsXms9xTAtNmROodyy8,The Noise,The Noise,28212,53,2.473131,3,10,56,https://i.scdn.co/image/ab6761610000e5eb2413305668b3901055dd13f1
+506,6CSa1r92LtHHdLG6kRabU3,Efecto Pasillo,Efecto Pasillo,384340,55,642.220732,2,5,7,https://i.scdn.co/image/ab6761610000e5eb08ce2c8dfefbde6effcba8de
+507,0w57qOEVTcqs0bLyFJ7Q52,Angel Lopez,Angel Lopez,5512,56,0.0,2,2,9,https://i.scdn.co/image/ab6761610000e5eb2824d3cf6dc30b8c55fccb50
+508,7gR53ad9JjCweCv4f9MWEX,Eddy Lover,Eddy Lover,390002,60,2229.302552,2,8,16,https://i.scdn.co/image/ab6761610000e5eb59ac817f9ff22a8faa678c4d
+509,2FS22haX3FYbyOsUAkuYqZ,Los Fabulosos Cadillacs,Los Fabulosos Cadillacs,2557262,66,0.0,6,1,1,https://i.scdn.co/image/fa61694bc1b21f212fef31d4f6b89e1d0b9ff7fa
+510,3YHFRVdfHlJ98iAc50PIYk,Benny,Benny,254921,58,2854.63719,6,14,18,https://i.scdn.co/image/ab6761610000e5eba930ac00ac3eabc9de737522
+511,43qxAkuKFB6fMNSeS5dO7Z,Ana Bárbara,Ana Bárbara,1019447,64,60.560052,6,5,5,https://i.scdn.co/image/ab6761610000e5eb014a2e5468aac4777b1d0b8a
+512,4W3fa7tiXGVXl3KilbACqt,Gustavo Santaolalla,Gustavo Santaolalla,244263,61,160.001448,6,5,5,https://i.scdn.co/image/ab6761610000e5eb949bbdd6ac3ae58e69e7f304
+513,36KsCCwgI0Dep97yVJWmkK,Monsieur Periné,Monsieur Periné,517532,60,759.970453,6,11,14,https://i.scdn.co/image/ab6761610000e5ebaf1b90db208cf554c44b7ddc
+514,6kaefrHSdAvxhhCVDFTCEL,Dulce María,Dulce María,668945,69,827.452791,7,10,28,https://i.scdn.co/image/ab6761610000e5eb0ef534da716d886451374f17
+515,2mUI4K6csTQd3jieswcmiI,Luis Enrique,Luis Enrique,839761,59,780.493928,6,11,16,https://i.scdn.co/image/02bdfed4ac00f4bced6cf9bde8d03c4770d3e7de
+516,0LALueHEQunQ2d61fXGeZh,Diego Torres,Diego Torres,1729256,64,2724.999025,6,17,24,https://i.scdn.co/image/ab6761610000e5eb3ec801ef6e66aae17694426c
+517,7FZj349hdLfD6qzXkJLuAh,La Quinta Estacion,La Quinta Estacion,2343553,64,0.0,6,2,5,https://i.scdn.co/image/ab67616d0000b2731daaff00746344ca90245833
+518,1zng9JZpblpk48IPceRWs8,Grupo Niche,Grupo Niche,2341250,67,0.0,6,1,1,https://i.scdn.co/image/ab6761610000e5ebff5cdb40d3aebdb4874a0196
+519,4J0m1OquRGY8HYHxMocXfy,Bulin 47,Bulin 47,274572,53,70.249163,13,18,60,https://i.scdn.co/image/ab6761610000e5eb5c86b4939130923027399156
+520,3vxYNXtM9uOMdRAXTXgtmf,Yung Sarria,Yung Sarria,79667,57,1163.755287,4,8,30,https://i.scdn.co/image/ab6761610000e5eb4362ad079d85534961a1d1d2
+521,2rPOaAdN74S2D0Kw3ImL5O,Elpatron970,Elpatron970,109778,60,1595.075892,4,7,21,https://i.scdn.co/image/ab6761610000e5ebf5f9c2b99b9e27457f60ccf1
+522,22dFwJoRBV51ue5TGnC7Dt,Beny Jr,Beny Jr,477856,69,19.579476,10,7,11,https://i.scdn.co/image/ab6761610000e5eb807f22297ee3cb75dff9370e
+523,4OiCK9NnTWhakDIG57uBUA,Inspector,Inspector,1106354,64,195.119744,6,8,11,https://i.scdn.co/image/ab6761610000e5eb39959ae33a1ab00ef9665d89
+524,3JkgQ8Jjwt2mkeOsg5yhqh,Alexander Acha,Alexander Acha,519506,56,836.075428,6,5,10,https://i.scdn.co/image/ab6761610000e5ebcc18f69ac9b9fac37e4577bf
+525,3Zs59sqZJ6fWQqWbRC8bOP,Natalia Lacunza,Natalia Lacunza,191015,57,0.0,6,2,2,https://i.scdn.co/image/ab6761610000e5eb4774c03bdcf18dff491bc8f5
+526,2kgCV0fFS0wt3q6M5B39nH,Tito Rojas,Tito Rojas,1007021,55,72.631117,3,7,8,https://i.scdn.co/image/ab67616d0000b2733440731e00045fa21cd5ee8d
+527,5Wg6XnPTp0xXxFCjywwR9I,Eddie Santiago,Eddie Santiago,1321307,64,0.0,6,1,1,https://i.scdn.co/image/ab6761610000e5eba2261fdb231185a4f11e00f6
+528,5v3TYN6Mmi5vxV2uSOfXot,Guaco,Guaco,232606,50,33.406744,6,5,8,https://i.scdn.co/image/ab6761610000e5eb389562e93bcd4582535ae51e
+529,3Yg61bt7pZYX1bbMXEj8oY,Tony Vega,Tony Vega,743613,56,63.315279,6,4,4,https://i.scdn.co/image/ab6761610000e5ebed44e1dbc10caa73dd9e98da
+530,2UFqwY8A3PLcx8pAkg9g5P,Diego Verdaguer,Diego Verdaguer,1031381,63,0.0,5,3,17,https://i.scdn.co/image/ab6761610000e5eb352069799c0013b73c8836df
+531,7CwiLiC1S8B69RMPxbDb6S,DLD,DLD,709525,62,187.980007,6,4,4,https://i.scdn.co/image/ab6761610000e5eb3bac0a1ad0058372c403bf12
+532,3v8mFhjLFa50QK8zDvAMYN,Amanda Miguel,Amanda Miguel,1317478,60,842.238528,5,5,19,https://i.scdn.co/image/ab6761610000e5eb37d67502e4f37ac2fc79af69
+533,6Hf2g14O2TP25JUNZuvIgn,Alicia Villarreal,Alicia Villarreal,669211,60,59.796025,6,7,20,https://i.scdn.co/image/ab6761610000e5eb8d3b06c21fc45ce54f0581e4
+534,13wFTN72PGSUxzEHJP5Ljs,Los Caligaris,Los Caligaris,881010,63,874.135339,6,9,12,https://i.scdn.co/image/ab6761610000e5eb4c71da827b931079b3bc664c
+535,5o7fmoqHl79fzoCzeApdxm,Sticky M.A.,Sticky M.A.,105990,55,1524.87178,10,14,26,https://i.scdn.co/image/ab6761610000e5ebdb71fc810458b08fcff9938f
+536,23herDudxPBB3S81GB5uG3,Alizzz,Alizzz,51794,56,963.786265,10,8,12,https://i.scdn.co/image/ab6761610000e5eb4e2ab3385f5660edc634e8c2
+537,16M8fuShcwX8uBDdmFZH9B,Israel B,Israel B,46756,58,3056.03745,10,28,88,https://i.scdn.co/image/ab6761610000e5eb0083d40b34a43a129ece4569
+538,7LHU5Uga349zOVMpDPf4ij,LOWLIGHT,LOWLIGHT,10636,53,768.974748,10,13,53,https://i.scdn.co/image/ab6761610000e5eb3efd994347efdc898a842a88
+539,6J6yx1t3nwIDyPXk5xa7O8,Vetusta Morla,Vetusta Morla,658055,59,1635.114908,6,6,7,https://i.scdn.co/image/ab6761610000e5ebe1505788450cae47fb199051
+540,7thnnayFyJnVOAJrpe5wMC,Mikel Erentxun,Mikel Erentxun,122597,56,56.57474,6,6,9,https://i.scdn.co/image/ab6761610000e5ebea981967e55358368dc4176a
+541,4rriNpL1lxpoysDDctWgl3,Jesse Baez,Jesse Baez,116286,57,2103.186067,10,10,16,https://i.scdn.co/image/ab6761610000e5eba311e0127e3b05963523cd58
+542,1QhaqxeqF9sipS2gwbEKpu,C-Kan,C-Kan,2035686,68,3917.930215,2,12,21,https://i.scdn.co/image/ab6761610000e5eb334c841c9a00210607162078
+543,6uFTGm4t8Z6tXyCm22sLQM,Fyahbwoy,Fyahbwoy,105935,51,2250.069347,13,13,19,https://i.scdn.co/image/ab6761610000e5eb503364ed8665d3fe3618493f
+544,3cuVSUrq0yoSSP7gpvI6q1,MC Magic,MC Magic,284522,52,775.022581,2,6,10,https://i.scdn.co/image/ab6761610000e5eb422690f36b04c8d9d89bfd53
+545,7B7TGqQe7QTVm2U6q8jzk1,Lil Rob,Lil Rob,386222,53,0.0,2,3,3,https://i.scdn.co/image/ab67616d0000b2739c744b40bac35800834a42a0
+546,0nOyxRsVicKeiBbB6zdIMu,Kinto Sol,Kinto Sol,728167,50,188.956072,4,4,5,https://i.scdn.co/image/ab6761610000e5ebeb3601585384697f1ea676a0
+547,30BSBWLKnYJION1lCPugXc,Santa RM,Santa RM,532285,58,1054.839493,10,4,6,https://i.scdn.co/image/ab6761610000e5ebc0fe1ea17cee816cac70a9a4
+548,5J5DLfdC5YmPjVk8ljdOqU,Big Metra,Big Metra,20857,50,0.0,2,1,1,https://i.scdn.co/image/ab6761610000e5ebde08c73f70da9f6e2da5945a
+549,19IsMFpELM7g2UDuwDlZvU,Motel,Motel,193909,56,4.468549,6,4,7,https://i.scdn.co/image/ab6761610000e5ebd615f1db067d879c53e4d000
+550,3QmmtMrEf7aQrsd1VtejAV,Mœnia,Mœnia,728528,62,0.0,6,3,3,https://i.scdn.co/image/ab6761610000e5ebc473dd95b0b810f91cb75385
+551,1bqHIHJm8coUJqqoguolZJ,Yahir,Yahir,983120,57,0.0,6,2,2,https://i.scdn.co/image/ab6761610000e5eb834cc63f569b6bc754a921f8
+552,4PtVXWSOmF4Tox1jj6ctSq,Plastilina Mosh,Plastilina Mosh,601462,52,0.0,6,2,2,https://i.scdn.co/image/ab6761610000e5eb7bfeb86bc0a0e81ee79392e0
+553,2ECP3nWC88LaFz4oQzTo3Z,Café Quijano,Café Quijano,345095,56,22.021312,6,7,10,https://i.scdn.co/image/ab6761610000e5eb266adcf7df7ca201e8a529c7
+554,1tZ99AnqyjgrmPwLfGU5eo,Fito y Fitipaldis,Fito y Fitipaldis,1592120,65,1682.179788,6,6,6,https://i.scdn.co/image/ab6761610000e5ebd5ed89f6dd4961b5442ea527
+555,235Vf4hkmwvxjVEMuCbRxm,Rodrigo,Rodrigo,1320201,58,928.06938,6,5,6,https://i.scdn.co/image/ab6761610000e5eb10ed5e8cb7fb5e14dd4a4a93
+556,6ESkuwldylZr39AIAPC63J,Alejandro Lerner,Alejandro Lerner,295826,58,427.422107,6,7,7,https://i.scdn.co/image/ab6761610000e5eb0dbbb2b8c4424c818c0106a4
+557,27Owkm4TGlMqb0BqaEt3PW,Molotov,Molotov,1971602,65,0.0,6,1,1,https://i.scdn.co/image/ab6761610000e5ebdae60bc9d0a605839a788310
+558,40JMTpVRUw90SrN4pFA6Mz,Ana Tijoux,Ana Tijoux,383578,56,2059.46621,6,9,13,https://i.scdn.co/image/ab6761610000e5eb7be991bac65c54b186e5f608
+559,1KfBKoozFugeT1PBkz33xl,Charlie Zaa,Charlie Zaa,149289,55,273.129336,6,7,7,https://i.scdn.co/image/ab6761610000e5ebe7da92a77c738f31fafcaeb2
+560,3jO7X5KupvwmWTHGtHgcgo,Charly García,Charly García,1282315,62,284.563755,6,10,15,https://i.scdn.co/image/ab6761610000e5ebd25ab3ee01527706a3b47cc6
+561,0WI8OfWCRvK4nGHmKfFQmd,Alex Zurdo,Alex Zurdo,1277701,63,7503.157825,8,22,67,https://i.scdn.co/image/ab6761610000e5eb6deee7c4105996919bf18328
+562,4B4YYJ0BAYBK86yxqQV7mu,Funky,Funky,609631,61,5178.697092,8,19,67,https://i.scdn.co/image/ab6761610000e5eb80f359f2d407f3932a76f6e9
+563,4UGA0TDpRVVt2SCz8FZOMm,Un Corazón,Un Corazón,381529,58,1194.050754,8,13,29,https://i.scdn.co/image/ab6761610000e5eb235ec16bcc7e7c6cc2fde7be
+564,4vEpUOtKWtpotWkuv0Vlx4,Evan Craft,Evan Craft,527729,59,3777.686245,8,25,47,https://i.scdn.co/image/ab6761610000e5ebd8a5198cbe70d810c355f343
+565,3ECxfxbxwRMTXdy1I5HWJq,Annette Moreno,Annette Moreno,265061,51,539.940605,8,5,7,https://i.scdn.co/image/ab6761610000e5eb80a0f763405229a603ace592
+566,0sHeKC0Zcxpz4wOHHE5oJ7,Jay Kalyl,Jay Kalyl,168272,53,577.668699,8,7,12,https://i.scdn.co/image/ab6761610000e5eb5fe9738550881f6f7e3dbb83
+567,6JaSyvyg28SHC0Of8YE6M9,Christine D'Clario,Christine D'Clario,1067910,61,139.404967,8,11,19,https://i.scdn.co/image/ab6761610000e5ebf01742d97f34461881909634
+568,5O46r5EwzdUL8RR1aM6yU2,Julio Melgar,Julio Melgar,838598,59,706.149628,8,8,8,https://i.scdn.co/image/ab6761610000e5eb3a57bdf290ec2f3aece27b78
+569,7zpvy5B9gb5KprNUzNCOEE,Miel San Marcos,Miel San Marcos,1268245,62,3338.670011,8,18,26,https://i.scdn.co/image/ab6761610000e5eb7bb4da448e2d6b43fed13202
+570,2IzxJqK9NbSIdw7rQVW03P,Barak,Barak,686365,59,38.891042,8,9,21,https://i.scdn.co/image/ab6761610000e5eb253d2a92e2bb5b02549d99c3
+571,7cLoxFihGCVL3s1K3xHK4I,Marcos Brunet,Marcos Brunet,515320,54,1388.397097,8,10,46,https://i.scdn.co/image/ab6761610000e5eb250cfe433ccc4b8bc3d0b279
+572,3e6e7N2fMD8rtk2PBVyMkm,Danny Berrios,Danny Berrios,388603,51,0.0,8,2,2,https://i.scdn.co/image/ab6761610000e5eb185566687dae757ae25bc6e6
+573,0Dy32zfSrQ332Bz8wsthKJ,La Beriso,La Beriso,1744582,58,140.19065,6,8,10,https://i.scdn.co/image/ab6761610000e5eb68548e82ea0750cd52099c24
+574,1OUDQLymoysITxprkd0Qvj,Coti,Coti,252478,63,5033.21767,6,19,30,https://i.scdn.co/image/ab6761610000e5ebe8e83b53e2b7a1cbff94f54a
+575,1G89WXRVVAEjU4VIwgg6XD,Ventino,Ventino,1305070,52,58.379836,2,7,7,https://i.scdn.co/image/ab6761610000e5eb3472eaad69b01369abfebb37
+576,7mUBMaZW1MXGswaneb0JTT,Macaco,Macaco,403802,60,6099.828313,6,20,28,https://i.scdn.co/image/ab6761610000e5ebefee3250a04917d78a21a6cc
+577,3zPWcnruZBNnrd22uS8UBy,Jorge Villamizar,Jorge Villamizar,94200,53,60.44606,6,7,8,https://i.scdn.co/image/4833a756522ab5e5c18729b98fa57331e7f8ceb2
+578,6LZA6PhNCwUfHzqfpN1nYL,Angela Torres,Angela Torres,128670,54,1449.879281,2,7,7,https://i.scdn.co/image/ab6761610000e5eb24271941ac4106f06716ae26
+579,5lWasZeo8uWQk6GD8czJLq,Sen Senra,Sen Senra,112693,56,162.597804,0,5,6,https://i.scdn.co/image/ab6761610000e5eb816139988384d2842f3ef1e6
+580,6jRUKVZllu1wtgXHbqvUmT,El Kuelgue,El Kuelgue,215837,54,62.460854,6,3,5,https://i.scdn.co/image/ab6761610000e5eb461f0d64a5f8fa0465f8de51
+581,5rI6C5mJm6GYXbGHhpHTu9,Attaque 77,Attaque 77,470340,56,0.0,6,1,2,https://i.scdn.co/image/ab6761610000e5eb62745fd52a232a1dd142d4f0
+582,0wn2qDKzeFlhjRUtJAwJjp,Bandalos Chinos,Bandalos Chinos,216296,59,348.438164,6,5,7,https://i.scdn.co/image/ab6761610000e5eb1a216112e18ad8f5e2adf755
+583,7FnZWGw9lwOr7WzieTKEPR,Los Pericos,Los Pericos,1129635,62,1313.491997,6,9,11,https://i.scdn.co/image/ab6761610000e5ebf3efa8b0813cab869845dde2
+584,1GlOpg3dPUft550esb82K3,Chaqueño Palavecino,Chaqueño Palavecino,432013,56,0.0,6,5,6,https://i.scdn.co/image/ab6761610000e5eb7f9bba7b21fd61d56810811f
+585,1fHGzTSloWCtrlKfbLNVhM,Gepe,Gepe,320344,55,128.944731,6,5,7,https://i.scdn.co/image/ab6761610000e5eb438213ab2fd7ab3065aefee3
+586,2F9pvj94b52wGKs0OqiNi2,Babasónicos,Babasónicos,1092186,67,45.022201,6,3,5,https://i.scdn.co/image/ab6761610000e5eb823b8bbe1bc5017437d99691
+587,6MxyNXnnmwQwdW2PD0gXYO,Bersuit Vergarabat,Bersuit Vergarabat,690897,60,0.0,6,1,1,https://i.scdn.co/image/ab6761610000e5eb4bf6a0d26d71a0139a38eabb
+588,0Zncosr79q01riJYbSBNA1,Turf,Turf,240162,54,230.463241,6,5,7,https://i.scdn.co/image/ab6761610000e5ebd5a70abb89b908d1a399b851
+589,6pWTPhk1AtVfNmkaeXXVpD,El Gran Silencio,El Gran Silencio,898664,58,521.04525,6,6,8,https://i.scdn.co/image/ab6761610000e5eb862376892456cce82b595ad4
+590,30HlKUFTsqlFQsPfyv2yuM,Danny Romero,Danny Romero,388290,55,592.955871,6,17,22,https://i.scdn.co/image/ab6761610000e5eb2b3463affd2ae7731f92936c
+591,4L5SLCIDWPPNGzrLraYCOS,Grupo Extra,Grupo Extra,150421,57,58.665309,11,4,8,https://i.scdn.co/image/ab6761610000e5ebdbb516507b98726f2ae64033
+592,12PSlydMSjEHzSCj9X5qv7,Baby Bash,Baby Bash,791639,61,10026.161074,2,14,30,https://i.scdn.co/image/ab6761610000e5eb0feee74aea6c89ebaae3913e
+593,4Rzu63KnqMsThOdfkrJk1Z,Lennis Rodriguez,Lennis Rodriguez,56554,54,777.771702,10,14,19,https://i.scdn.co/image/ab6761610000e5ebb2b5916928136b9c3408ed9c
+594,2GzKA5uPf3Nef6JjkUNk4H,Lyan,Lyan,45036,55,716.462159,0,16,23,https://i.scdn.co/image/ab6761610000e5ebeb9dd27bb613e7b10c515b8b
+595,6XmHtVhgpE33VHFEp2V1P8,Playa Limbo,Playa Limbo,1601728,58,23.155389,6,3,3,https://i.scdn.co/image/ab6761610000e5eb7b7fe72f6aca6536a198dd8a
+596,7E7CVSqFdLyh0K4AE9uTMo,Pimpinela,Pimpinela,1605046,60,948.179713,6,5,13,https://i.scdn.co/image/ab6761610000e5ebfb7429e08829bf1ab3e5887f
+597,2ydE5oBt6cwsDxH1TpIFmO,Los Nocheros,Los Nocheros,495349,54,158.276131,6,7,7,https://i.scdn.co/image/ab6761610000e5ebf632ef29aa1cff9e8a723cca
+598,5oYHL2SijkMY52gKIhYJNb,Elefante,Elefante,1553509,66,700.193955,6,4,4,https://i.scdn.co/image/ab6761610000e5eba40f5812b577a0528b459e70
+599,6genEcweKnEZ92TZvdeLFl,Edgar Oceransky,Edgar Oceransky,154881,54,241.511312,6,10,15,https://i.scdn.co/image/ab6761610000e5ebd6c80b9b4e82d421a3064802
+600,66RfYVdftqnuHRicyClgL0,Dharius,Dharius,1554132,64,0.0,2,1,6,https://i.scdn.co/image/ab6761610000e5ebfa68f9b68ee4427226d071bb
+601,1dpnxi6xgoB2kaRYnnoatZ,Miguel Ríos,Miguel Ríos,211106,57,2048.040938,6,10,10,https://i.scdn.co/image/ab6761610000e5ebe44524680238d97bffb950b2
+602,2Ax9wZpdlg4r2zkc3pcI8U,La Unión,La Unión,452982,57,0.0,6,1,1,https://i.scdn.co/image/ab6761610000e5ebf05521f1166e353bf77ba193
+603,4frBEXn8nhWzOVwfCSpuYB,Fer Palacio,Fer Palacio,1494965,62,0.0,10,1,1,https://i.scdn.co/image/ab6761610000e5eb300868ffcd048a9db0a27f84
+604,1FxsUemFullSXJpySUsT0J,JC el Diamante,JC el Diamante,25833,50,71.487889,10,6,6,https://i.scdn.co/image/ab6761610000e5eb52bbac93c0a9b1f1399c16d3
+605,4yNdrUaF54csrLixVTnqzC,Eddy Herrera,Eddy Herrera,422600,56,151.311894,11,5,5,https://i.scdn.co/image/ab6761610000e5ebe557da8cf5d56882ade536f8
+606,4x7kxyIgzgtrHYDQ8SCzo2,Marcos Witt,Marcos Witt,1391045,61,1874.981758,8,13,20,https://i.scdn.co/image/ab6761610000e5eb34658e9a3990bf613d91aa6e
+607,1c22GXH30ijlOfXhfLz9Df,Elvis Crespo,Elvis Crespo,828538,64,3902.34871,3,22,26,https://i.scdn.co/image/ab6761610000e5ebf9cef9d3691a827de8f1cf3f
+608,4DeiqSO9kyWDr1KuQTYMVg,Seth Condrey,Seth Condrey,67164,50,69.444139,8,6,9,https://i.scdn.co/image/ab6761610000e5eb88b8f6bd49ca72b8911226f4
+609,5ovBCDCRU118CMxJ1KpAOw,Essential Worship,Essential Worship,19658,50,4005.074732,8,12,16,https://i.scdn.co/image/ab6761610000e5eb9d2740b47534b3e9d56cca38
+610,2gaFnEQydJdWNkT17NLZm3,Su Presencia,Su Presencia,213613,56,311.619439,8,5,9,https://i.scdn.co/image/ab6761610000e5ebfaa8671beb22a5730ba17dbc
+611,3P4VNQLuN1qQQnL8rMaIkL,Noriega,Noriega,22476,59,130.911975,3,23,68,https://i.scdn.co/image/e54be6a261b993cc671227bd4ba9f9fc4e8ddde3
+612,2fC8dVxeS2bsfIDvFj1M4V,Christian Daniel,Christian Daniel,75865,51,54.299121,3,8,9,https://i.scdn.co/image/ab6761610000e5ebfbeeda33c888b90e703dca19
+613,7cjh6y0V9SsyCrWSXTzwOs,RBD,RBD,1405237,68,783.0,7,5,61,https://i.scdn.co/image/ab6761610000e5eb103081cf75f1734809b91a79
+614,0TeVa4xdLB8vdzjsvKH6Ri,Anahí,Anahí,665155,68,3386.937872,7,10,30,https://i.scdn.co/image/ab6761610000e5ebb31cb9358fdf9e534c01b648
+615,0Wnd6L0qEnk8jiCIHrWXaC,Kudai,Kudai,712828,57,0.0,7,1,1,https://i.scdn.co/image/ab6761610000e5ebfdbcfd4ffdaaa21d773d6055
+616,3HgZDevp7GspkLUAa5cKne,El Tri,El Tri,1397551,61,0.0,4,2,2,https://i.scdn.co/image/ab6761610000e5eb666c2282d0066e21081958f2
+617,6gm3ZEpugRTHbtEn3A6Siw,Johnny Prez,Johnny Prez,148674,50,1522.767073,3,14,16,https://i.scdn.co/image/ab67616d0000b2738f585a4902702e7d98c903d3
+618,5GNSVtCq2hiXDx7jUA5Iou,ChiChi Peralta,ChiChi Peralta,536611,60,318.780281,8,3,3,https://i.scdn.co/image/ab6761610000e5ebaa564bb7b4fd1c25df0bb051
+619,5B6H1Dq77AV1LZWrbNsuH5,Jarabe De Palo,Jarabe De Palo,1336239,66,0.0,6,7,14,https://i.scdn.co/image/ab6761610000e5eb70f08f633c78d37071b55f7a
+620,2weA6hhVqTIN2gSn9PUB9U,Celia Cruz,Celia Cruz,473518,64,3951.473989,9,9,60,https://i.scdn.co/image/ab6761610000e5ebb58cbc73f2b755f60134c54b
+621,5F73ZVq8ivLhsYF2pGg4Fc,Makano,Makano,533742,53,0.0,6,3,4,https://i.scdn.co/image/ab6761610000e5eba5e3780c75d7595f61069beb
+622,5zaT4Qu9otu6z4oyWjRqM2,OV7,OV7,1316384,59,20.154886,6,5,5,https://i.scdn.co/image/ab6761610000e5eb37ffec129463fc86d584a00a
+623,61hAcjvvUS6EXMpeeHwaDi,Kabah,Kabah,787658,58,23.429956,6,6,10,https://i.scdn.co/image/ab6761610000e5eb60be36baf412f01c6c745c67
+624,1xJAOe5igcfHGUbMHxsTBq,Sentidos Opuestos,Sentidos Opuestos,869351,54,0.0,6,1,1,https://i.scdn.co/image/2ee3ae6ea81fcc0aae6c375fa01fe00f869ec145
+625,1ZVoRDO29AlDXiMkRLMZSK,La Ley,La Ley,1290562,63,7.878781,6,2,2,https://i.scdn.co/image/809530f901c9697984f669b6f4a6fea1dc9762f6
+626,5R6YR0pasdxlynyq0Abq7x,Fabiana Cantilo,Fabiana Cantilo,342704,54,52.244029,6,4,7,https://i.scdn.co/image/ab6761610000e5eb413085500ee8cb0fd339667f
+627,1MuQ2m2tg7naeRGAOxYZer,Luis Alberto Spinetta,Luis Alberto Spinetta,689852,57,120.93922,6,7,13,https://i.scdn.co/image/ab6761610000e5ebe1988a1a730ae50728967a16
+628,2FFrhWZS9vJsh2UvxYPRr6,Pedro Aznar,Pedro Aznar,292127,54,934.013627,6,6,11,https://i.scdn.co/image/ab6761610000e5ebad85dd3f57f08a11a1723886
+629,30fEdZPXgWfC4sNttcyB3C,La Renga,La Renga,1279581,60,0.0,6,2,3,https://i.scdn.co/image/ab6761610000e5eb0b00de9f4a1eea1acf9518e8
+630,1db5TWniHR7iqwXer7AiQ2,Pappo,Pappo,346062,50,793.0,6,7,12,https://i.scdn.co/image/ab6761610000e5eb542a5f586667963452614feb
+631,2TkDdk47FGnvxcjQGDdPd0,Kike Pavón,Kike Pavón,295990,52,1150.124064,8,13,18,https://i.scdn.co/image/ab6761610000e5ebd058c6ff028c2aab7ce86342
+632,5pyTY6jmdDNfKmmlo92Vfd,Lead,Lead,102529,50,611.283057,8,13,27,https://i.scdn.co/image/ab6761610000e5ebc027a1974e311fca5e3db808
+633,17XxPdvl2MD39MnT9zhNjU,Samuel Hernández,Samuel Hernández,448678,53,0.0,8,4,7,https://i.scdn.co/image/ab6761610000e5eb4f6dd6464db94eebea3e6ca3
+634,4225vUKDHwHhcYY9IRWwX0,Nancy Amancio,Nancy Amancio,482230,55,0.866667,8,2,3,https://i.scdn.co/image/ab6761610000e5eb971b8358a05b4f5fd019db1a
+635,1NWIpqck2zZ43JamLJgf6U,Juan Carlos Alvarado,Juan Carlos Alvarado,360813,56,784.0,8,5,16,https://i.scdn.co/image/ab6761610000e5eb49c031313a264b2b676c7f0e
+636,4lZXpKLxWjMDFeNmiU4H1h,Daniel Calveti,Daniel Calveti,612240,53,981.042159,8,7,7,https://i.scdn.co/image/ab6761610000e5eb1a2a035285ca929be47fd2a5
+637,4VYSLPSI9yb8qkUpKyVQSJ,Marco Barrientos,Marco Barrientos,1266945,61,34.513561,8,10,15,https://i.scdn.co/image/ab6761610000e5ebf2bee20999e4cab02ea35c5b
+638,2a48vLoCcVkOMcCSqXreOF,Danilo Montero,Danilo Montero,833699,56,183.497253,8,8,12,https://i.scdn.co/image/ab6761610000e5eb2ba4caf7937022f2c9cf683c
+639,7i1CyQ1fogh4bkj3EPj3ls,Girl Ultra,Girl Ultra,113078,50,807.925682,6,6,9,https://i.scdn.co/image/ab6761610000e5eb317a94a2d9ea36392aab27cc
+640,6hQHiviB4JUWVmfykjYzcB,Camilo Séptimo,Camilo Séptimo,444871,60,1304.922397,6,6,9,https://i.scdn.co/image/ab6761610000e5eb22ebf928bc809d4c7bb0b234
+641,5p1ARDx76hnOXoeigLIKit,Little Jesus,Little Jesus,336942,57,1080.037464,6,11,16,https://i.scdn.co/image/ab6761610000e5eb2a66fdf279aedbf27c5a25a2
+642,5nKGeITSNCVP76muyOlszy,Elsa y Elmar,Elsa y Elmar,148552,62,2861.808955,6,13,16,https://i.scdn.co/image/ab6761610000e5ebaaabfca7099907a0aeee3715
+643,1oHPSeQJBwNmpq0J52Wjn1,Toser One,Toser One,298647,58,157.550659,2,5,5,https://i.scdn.co/image/ab6761610000e5eb2a835927ba37ccfef8d5884c
+644,60ZOYUFnCYEeKYsxgvPxOS,Cano,Cano,95845,61,952.247307,13,15,21,https://i.scdn.co/image/ab6761610000e5eb8a5fc40573a62cd03ee8da4b
+645,0xf0KaVp6AMWgesiBh6fee,Musicologo Y Menes,Musicologo Y Menes,162950,51,406.325365,0,29,76,https://i.scdn.co/image/ab67616d0000b273276a312bc7aa404a9295cb70
+646,224rbIjYbXaTI7lnP2ZMNJ,ToteKing,ToteKing,238068,51,9034.863475,13,19,25,https://i.scdn.co/image/ab6761610000e5eb31642a0655a8b2f2ef4fc4fe
+647,3oNy8cjBtJzLC07I70sklp,Belanova,Belanova,1000590,62,85.091532,6,2,2,https://i.scdn.co/image/ab6761610000e5eb5f98bb5a9eb2fedee9e424ee
+648,5enSNzCwMx61gCMv9jaV4Q,Soraya,Soraya,380343,53,0.0,6,1,1,https://i.scdn.co/image/17eb12c7d1754be4ae28be151e6c855719967934
+649,6djNDzSg08mnh2Ayoh6Ovn,Larry Hernández,Larry Hernández,1224289,58,0.0,2,1,1,https://i.scdn.co/image/ab6761610000e5ebfbb77d2b26d7dee5844c8667
+650,2ST5XwWB4uXGKk2NXP8DUI,Los Cafres,Los Cafres,1215179,60,0.0,2,2,2,https://i.scdn.co/image/ab6761610000e5eb1b30f67e5011f6943d5eaa7d
+651,4EzD52bDFGZTEeEucKHtDs,Sergio Vargas,Sergio Vargas,351370,52,0.0,6,2,3,https://i.scdn.co/image/ab6761610000e5eb27e6a2eaa83d01d463a360a8
+652,5lYeiQxUTcGKVgAuTqbTeL,Charles Ans,Charles Ans,1187875,68,3605.515267,10,12,15,https://i.scdn.co/image/ab6761610000e5eb9f5d7a4538c195c7dad2a6ca
+653,6viZnVSHavFUcW0blu6Mvw,Simpson Ahuevo,Simpson Ahuevo,239951,56,157.411649,10,3,4,https://i.scdn.co/image/ab6761610000e5eb652105f5416e555ae600665f
+654,0zgFL90nGTrH2iOMD8Vysy,Sabino,Sabino,593136,65,284.597904,10,5,7,https://i.scdn.co/image/ab6761610000e5ebbf875e09c8aeacc86a9d267f
+655,7bWN0FHvLppK8ozEH6exdi,M2H,M2H,140533,50,2119.185431,10,8,11,https://i.scdn.co/image/ab6761610000e5ebabd850e94d66e6f6ad1665e8
+656,0zfvfy9XlborSqXNRhi8Bk,Samantha Barrón,Samantha Barrón,138483,58,715.983134,2,5,6,https://i.scdn.co/image/ab6761610000e5eb1c06c88c8eb2bb551df0bfb2
+657,628gUkswCfCS1hIOOHmIpK,Control Machete,Control Machete,1145215,57,791.0,6,3,5,https://i.scdn.co/image/ab6761610000e5eb6a39d80d964e3c4ad7fbff9f
+658,4nSgEvZncnC5oNPVrtwnLd,Gondwana,Gondwana,987452,60,91.072263,6,3,4,https://i.scdn.co/image/ab6761610000e5eb84090332e01dad3fd5738000
+659,2BTS8Np1YzPQuXjgdlqsBB,Emanero,Emanero,58094,59,2610.505133,10,9,13,https://i.scdn.co/image/ab6761610000e5eb9c290f00e6d4a6355c35fde1
+660,4kcQWQDK0u9AftVSpdrAgk,Luck Ra,Luck Ra,250798,62,1049.552378,10,13,22,https://i.scdn.co/image/ab6761610000e5eb3fca8f811d58764d010d4408
+661,3mGyF5kXDjEkLlFypJ93en,Lupita D'Alessio,Lupita D'Alessio,1079535,55,0.0,6,1,1,https://i.scdn.co/image/ab6761610000e5eba8482d0b9d6504dfd9933cc7
+662,3mYFuz6iY7D9X78rOXg5CG,Akwid,Akwid,1078033,59,0.0,6,1,1,https://i.scdn.co/image/ab6761610000e5eb2b550489a42e68bc530b62e6
+663,4dLvccxeQIM5u80Ri0u9OV,Frankie Ruiz,Frankie Ruiz,1049705,65,0.0,3,1,1,https://i.scdn.co/image/ab67616d0000b2738181d8122c4f608df8ef5a4f
+664,6bigFvZX5HdrC98srqxRLQ,Panther,Panther,63138,54,0.0,10,1,1,https://i.scdn.co/image/ab6761610000e5eb7ea909d02a056bb8fe3448c1
+665,3uC20p2EoNm5LYtzSVWdkL,Fey,Fey,1031817,58,0.0,6,1,1,https://i.scdn.co/image/ab6761610000e5eb250f5cfa668189c95b65a556
+666,1jB62pOe5WpGiHOBDtKBBG,La Zowi,La Zowi,155476,52,176.791649,10,12,16,https://i.scdn.co/image/ab6761610000e5eb6f7616f4f987272181d47329
+667,15RLdM61VHtknTIYIuNviR,Blunted Vato,Blunted Vato,270915,54,287.832136,10,8,16,https://i.scdn.co/image/ab6761610000e5eba79e3018641653ae8b2bfceb
+668,3WMlRpW5JWuDI95TcEWt3r,Salastkbron,Salastkbron,62708,59,0.0,10,2,2,https://i.scdn.co/image/ab6761610000e5eb5f3a466d7783b3130b87ab69
+669,77pCqwW8HaKBjkTHe395eo,Fili Wey,Fili Wey,76527,52,0.0,10,2,4,https://i.scdn.co/image/ab6761610000e5eb4ed20c04e53dee8dbf20e2ec
+670,0Xo4VFS3v07L0GwIVkZLfg,Homer El Mero Mero,Homer El Mero Mero,214137,62,8960.903755,10,18,32,https://i.scdn.co/image/ab6761610000e5ebff0d6c65e8237b1096a6697a
+671,6DjBv6gyR1HLsvwGUOD5V9,TREN LOKOTE,TREN LOKOTE,998976,58,3616.175995,4,6,10,https://i.scdn.co/image/ab6761610000e5eb428f9c22cf2fb08eabb084f6
+672,2NtN73hhhgFt2NmbBOlFz1,Under Side 821,Under Side 821,453886,55,0.0,4,1,2,https://i.scdn.co/image/ab6761610000e5eb9326debd4e7ef3d617c51701
+673,3L7OHIT4kfdcDSnnGM0TKN,El Pinche Mara,El Pinche Mara,658745,52,784.0,4,3,8,https://i.scdn.co/image/ab6761610000e5eb9ce6b71ba991c7b803d5318a
+674,4sGC7K2rSpWrWudBgYPMce,Joe Vasconcellos,Joe Vasconcellos,264829,53,1133.198083,2,5,6,https://i.scdn.co/image/ab6761610000e5eb48d33d30e70e06f25da3d76a
+675,5Q2fyL2TcdUY9IqKTkGk5G,Bardero$,Bardero$,297743,58,248.435072,10,6,26,https://i.scdn.co/image/ab6761610000e5eb580d5ad9b1314a75481a2132
+676,4bWHA8fMNjzfGPQqnh5D6y,Recycled J,Recycled J,184266,59,2361.523393,10,22,56,https://i.scdn.co/image/ab6761610000e5ebee80e52eb54b96b9fca7d6f0
+677,1m9WPOccw8sizsVYUhSVjZ,Selecta,Selecta,14822,50,2000.862518,10,22,62,https://i.scdn.co/image/ab6761610000e5ebffa6401dd333800cfb9826ba
+678,0jeYkqwckGJoHQhhXwgzk3,Cruz Cafuné,Cruz Cafuné,210026,68,1885.885859,10,22,31,https://i.scdn.co/image/ab6761610000e5eb3912a311272f7b3ce56b2551
+679,4D2d63igYEdzhzFnxrSow7,Frijo,Frijo,603763,57,204.77355,10,11,12,https://i.scdn.co/image/ab6761610000e5eb2363470ece148dcbc06c9525
+680,1rTUwYS38LkQTlT2fhikch,Yung Beef,Yung Beef,317526,63,1579.398236,10,21,62,https://i.scdn.co/image/ab6761610000e5eb5ce6494340213ddf1642bbf3
+681,0OltT51j3hIkgaDJqqPzDn,Nicola Cruz,Nicola Cruz,310891,52,11.167888,6,2,2,https://i.scdn.co/image/ab6761610000e5eb2733b3485f1950bd7874fff6
+682,3MqjsWDLhq8SyY6N3PE8yW,Aterciopelados,Aterciopelados,685797,56,2567.036687,6,9,10,https://i.scdn.co/image/ab6761610000e5ebe564d1c9b3aa9f696874deab
+683,6NHTDaYSUeMaroI5U0jytT,Myriam Hernandez,Myriam Hernandez,962137,59,0.0,6,4,4,https://i.scdn.co/image/ab6761610000e5ebc8be4c67d65d9f4f22e8f073
+684,0SnyKkoyBaB2fG8IJH4xmU,Los Piojos,Los Piojos,954826,59,0.0,6,1,1,https://i.scdn.co/image/ab6761610000e5eb94c942de86e1d714b7238db1
+685,5pughe5rcsOq3GF0utMOs5,DrefQuila,DrefQuila,952125,62,56.843973,10,6,7,https://i.scdn.co/image/ab6761610000e5ebd87ca8a7a2e6ce6f83d9f956
+686,6ddcxDK0BEkhe5LCdoA5Ki,Nickzzy,Nickzzy,83801,53,108.326625,10,8,10,https://i.scdn.co/image/ab6761610000e5ebd2058e10824ae67ee3caac5f
+687,4QmDIEVrROsBAad02Mlc1p,Estani,Estani,13180,59,3114.050365,10,13,17,https://i.scdn.co/image/ab6761610000e5eb0bed14130f7bfe8abce1d346
+688,4Hzj6dfl1y5x5TzCSsvLB6,Remik Gonzalez,Remik Gonzalez,880668,57,791.0,4,4,7,https://i.scdn.co/image/ab6761610000e5eb56c6d597493edcdf49efe53b
+689,4VgvR7eu3k2T20mo6mXhXF,Intoxicados,Intoxicados,863710,60,0.0,6,1,2,https://i.scdn.co/image/ab6761610000e5eb47f935f610fbbb66c8b549ff
+690,5RK6c1tyaKpwcDpbgCGNgj,El Canto Del Loco,El Canto Del Loco,861451,62,0.0,6,5,6,https://i.scdn.co/image/ab6761610000e5eb5f251e3951c253901cf172c0
+691,14lvrkdaXxggonwjKZpePM,Chano,Chano,138189,54,1021.487437,10,5,7,https://i.scdn.co/image/ab6761610000e5eb3b00cbaf9b93647308f9f6e9
+692,1SykQGBiBwkQ1fcGpJ1BJt,Los Tipitos,Los Tipitos,438072,52,1180.170388,6,10,15,https://i.scdn.co/image/ab6761610000e5eb82f18692b08d6c69f0215235
+693,5iDqEobZRSTiBSAk6jLp4A,Oscu,Oscu,430203,65,339.790953,10,5,12,https://i.scdn.co/image/ab6761610000e5eba74207b98e87dcedeb5b8236
+694,6ZIgPKHzpcswB8zh7sRIhx,Divididos,Divididos,835352,58,85.501126,6,2,2,https://i.scdn.co/image/ab6761610000e5ebece2d58c9e7976e95deb6902
+695,40FzPNKgu0k9VMvvidiKCl,Los Hermanos Rosario,Los Hermanos Rosario,238289,50,2392.368901,11,6,10,https://i.scdn.co/image/ab67616d0000b273733ee7a8bc790007746e0255
+696,1hMa6SwU2t8eUEETAAbk9z,Ilegales,Ilegales,126282,51,809.945966,6,4,4,https://i.scdn.co/image/ab6761610000e5ebebb2720d06e7d5e621665f6a
+697,6nVcjUJemqpJjc1WevwTvL,La Vela Puerca,La Vela Puerca,826253,60,794.896438,6,4,5,https://i.scdn.co/image/ab6761610000e5eb1bb85fb4349fd61b46151fb4
+698,0mdD8YXAyJDJ2BHxIKF0Yf,Raly Barrionuevo,Raly Barrionuevo,164771,50,1071.000135,6,5,6,https://i.scdn.co/image/ab6761610000e5eb45734b8dc5c3fe7071400852
+699,6hYxQDiGct9yfRlSEv3F8a,Simon la Letra,Simon la Letra,103773,61,62.515524,10,5,9,https://i.scdn.co/image/ab6761610000e5eb11a9bbad96cf27a988494936
+700,7DXregrznS25AM30UY9sUU,King Savagge,King Savagge,98748,68,154.759542,10,10,14,https://i.scdn.co/image/ab6761610000e5ebc3f34b98e62cc7e00d3d7cca
+701,5CAruGjgds3QlF5ICtEnnc,Jairo Vera,Jairo Vera,188539,63,882.554894,10,9,14,https://i.scdn.co/image/ab6761610000e5eb9f969406a336ab97dd1b7330
+702,6gyhsZUy2fzzWZBRVPmOw4,Soto Asa,Soto Asa,114618,58,81.317596,10,7,12,https://i.scdn.co/image/ab6761610000e5eba294e038d7d691746aff7e68
+703,43Hr2FjhVehkROIIEb7EfQ,Ms Nina,Ms Nina,141480,53,170.395266,10,7,9,https://i.scdn.co/image/ab6761610000e5ebb3e53c9c2e17c0a47fee74a2
+704,0OluGbRuQQEcYyttGww517,Los Mesoneros,Los Mesoneros,153410,51,1290.264007,2,6,6,https://i.scdn.co/image/ab6761610000e5eb9e132c9c05582ac8503b35ef
+705,4kKaAWGdu6WW0W415RWaQA,South Park Mexican,South Park Mexican,756343,61,0.0,2,2,9,https://i.scdn.co/image/ab6761610000e5eb7d1939bbae5aa20bf104034f
+706,3BG9cpTxZQzQChcsp7ss9a,Mr. Capone-E,Mr. Capone-E,212113,52,1566.0,2,5,9,https://i.scdn.co/image/ab6761610000e5eb8f8a395a1b7731e9b29d7c13
+707,6L3x3if9RVimruryD9LoFb,King Lil G,King Lil G,394224,55,0.0,2,2,2,https://i.scdn.co/image/ab6761610000e5eb607aabc9bcd03dd778339a6f
+708,7LXdYckhvHWU4ejXbkHa3N,Pepe Quintana,Pepe Quintana,777241,53,0.0,0,17,29,https://i.scdn.co/image/ab6761610000e5eb949027adfce7d65de6bdee9e
+709,4cK5uxWRVJ3QOSfaBMX2Ex,Cupido,Cupido,81522,51,0.0,2,3,3,https://i.scdn.co/image/ab6761610000e5ebc980bd8bd9e043a6f13052be
+710,1F2erLLqRHbaFvEYHeVIHJ,Foyone,Foyone,157587,52,4849.735774,10,20,37,https://i.scdn.co/image/ab6761610000e5eb794a45abaa6f17fd4684808c
+711,2GrNjfw23jqL1NTopPlc6c,Pedro Guerra,Pedro Guerra,169201,53,1217.904145,6,15,20,https://i.scdn.co/image/ab6761610000e5eb7cce2a70d6ef089fb7973325
+712,5ttV0N9HvMH3KLqNKcS2M0,Rosana,Rosana,733263,61,0.0,6,2,3,https://i.scdn.co/image/ab6761610000e5eb8182d628346892817c6d0df4
+713,1Y99HOeRzRc27my6NJE3rE,Natalie Perez,Natalie Perez,191022,61,2376.694153,6,8,11,https://i.scdn.co/image/ab6761610000e5eb6e04925a063ef5bc168e9344
+714,6pVmT18pd1QaofDegZUEKX,La Nueva Luna,La Nueva Luna,720832,58,0.0,6,1,1,https://i.scdn.co/image/ab6761610000e5eb32566bdc4f09ad0ff1a4cc0c
+715,3udlGv7o6NeUWRlRFGqPY9,Cristian,Cristian,723578,60,0.0,6,1,2,https://i.scdn.co/image/ab67616d0000b2735cbc00c3eb70b3ff45ecebc6
+716,6Q6qTNC2rAegcR5QjzcRgE,Gilda,Gilda,715886,56,917.359984,6,4,4,https://i.scdn.co/image/ab6761610000e5ebaca6bfaf2d59f32da511a4be
+717,3XBw8ImFEo86mEB2dYh0vS,Zoe Gotusso,Zoe Gotusso,80761,52,245.333815,6,6,6,https://i.scdn.co/image/ab6761610000e5eb8aa92b465b7d43513c16bb72
+718,50u2mXgysmTttY0BizYWAo,Movimiento Original,Movimiento Original,701223,60,3633.075579,13,10,12,https://i.scdn.co/image/ab6761610000e5eb08c3aa33f6210d8458770dfe
+719,6J9Vq69rGl3fJftWDT8jaK,Shamanes Crew,Shamanes Crew,200842,50,802.995771,13,6,7,https://i.scdn.co/image/ab6761610000e5eba6d56327c810eb02bf858e82
+720,271TPCWy79Q4utmSP6uSQg,Portavoz,Portavoz,282862,52,27.221498,13,2,4,https://i.scdn.co/image/ab6761610000e5ebdf48741dd2ba7a2fe3df9963
+721,7AiFAkvE8VYLDdsmLC78ik,Bubaseta,Bubaseta,179456,53,0.0,13,2,3,https://i.scdn.co/image/ab6761610000e5ebbed24f02c05f6235704cdcb8
+722,1QJbbsxg2wqidJj51d3otw,Natos y Waor,Natos y Waor,677881,63,692.653911,10,14,25,https://i.scdn.co/image/ab6761610000e5eb3d8e0e040f1d046fa7d8f875
+723,0fwnNjAay5ZHP5bAd63g8Y,Denom,Denom,120850,51,3918.214771,13,26,30,https://i.scdn.co/image/ab6761610000e5ebd7dd523af756459095840b3e
+724,4lHAjTCvXGu8QIM3cEe93m,Maka,Maka,377989,61,2272.63609,10,15,26,https://i.scdn.co/image/ab6761610000e5eb33afc5ab49e72c71e81a4bd7
+725,2w1wJcGdJQ4Lw08oKBnDsw,El Jincho,El Jincho,249782,55,2792.499982,13,8,12,https://i.scdn.co/image/ab6761610000e5eb3051862ced0a6ac8147304fc
+726,2544NCTfffschCn1NZVMSb,Dollar Selmouni,Dollar Selmouni,67255,55,3007.29275,10,18,28,https://i.scdn.co/image/ab6761610000e5ebb208a0cf6455d71a7d278d2f
+727,4ff5IojFqry4841QjwULTV,Carlos Ponce,Carlos Ponce,174706,57,0.0,7,2,2,https://i.scdn.co/image/cdfdde0a76940748a91d66912be5da71a075a47a
+728,7wTu5u7W3kc9Id5JAvSAFV,Viejas Locas,Viejas Locas,664282,57,0.0,6,1,2,https://i.scdn.co/image/ab67616d0000b273df3f8fd1d8e59db737afc889
+729,2faVKByk0IA651ICKyYYOa,Jenny And The Mexicats,Jenny And The Mexicats,207676,50,0.0,6,2,3,https://i.scdn.co/image/ab6761610000e5ebdf707556be803cf07995015f
+730,3pO5VjZ4wOHCMBXOvbMISG,Antônio Carlos Jobim,Antônio Carlos Jobim,542755,64,784.0,12,3,19,https://i.scdn.co/image/25438d99922a46a53792e1496b31159ad386806a
+731,2VSRhqonKsL7KRAIk8SMmt,Daniela Spalla,Daniela Spalla,112608,58,1585.353866,6,8,11,https://i.scdn.co/image/ab6761610000e5ebdb7d7b4dc5392421f524d0e2
+732,79R7PUc6T6j09G8mJzNml2,Conociendo Rusia,Conociendo Rusia,137919,55,148.12203,6,5,6,https://i.scdn.co/image/ab6761610000e5eb9ee2d307fe59e409b84287c9
+733,5Fv0DQ1ZBuc2DlidtOUCZr,Loquillo,Loquillo,275987,52,152.21409,6,5,5,https://i.scdn.co/image/ab6761610000e5ebb4ca3546a2176f949fbfa1cc
+734,1w76rpst0I6hGUgCR2B33C,Generación 12,Generación 12,422883,55,1804.036223,8,14,18,https://i.scdn.co/image/ab6761610000e5ebd362c81642c1d0fa255c7b89
+735,39PYJNgoQuBHjE6LEn3ZdE,Ingrid Rosario,Ingrid Rosario,526564,51,5.470707,8,5,6,https://i.scdn.co/image/ab6761610000e5ebdeac4f28a930765e577c26b3
+736,4A03xFVufDpEqOY9fQlFue,Musiko,Musiko,158887,54,5664.664352,8,14,25,https://i.scdn.co/image/ab6761610000e5eb390d1267834fd52088a65c26
+737,4zbqGb99bANxJBsvwRr2zT,Flans,Flans,609090,59,0.0,6,1,2,https://i.scdn.co/image/ab6761610000e5eb3843a6259038f25fe8ffab1f
+738,4bx914GWsNvshDzfYNSKjY,La Gusana Ciega,La Gusana Ciega,591088,55,0.0,6,1,1,https://i.scdn.co/image/ab6761610000e5eb9968ccda2155a52e921241a5
+739,56n1NeXsTOOxjX3Z4lVMTJ,SFDK,SFDK,586276,57,2319.377682,13,13,23,https://i.scdn.co/image/ab6761610000e5eb3ab473e158510f75261428bf
+740,2X11x8C63wCzAf1WwsIuLg,Kaze,Kaze,197849,53,50.371491,13,4,6,https://i.scdn.co/image/ab6761610000e5eb7211a222877b9f15378d9f2d
+741,1v7iZcyrm4fHfsEBiseomy,Green Valley,Green Valley,251590,51,2931.035734,13,13,18,https://i.scdn.co/image/ab6761610000e5ebff7a079673aa618e4f1204de
+742,2OnH4HpywAxWkSOEsyjdjn,Morodo,Morodo,423207,53,192.245398,13,8,9,https://i.scdn.co/image/ab6761610000e5eb8a54616a29cd1dce3a86d19c
+743,4rO00pQq33bIv73QyJdivX,Kabasaki,Kabasaki,4587,54,3526.776272,10,20,36,https://i.scdn.co/image/ab6761610000e5ebbf49d2c217c0851c90377ab1
+744,5JcO3FHEBbWTQMUHmWtU2g,Juancho Marqués,Juancho Marqués,138533,51,159.244855,10,11,11,https://i.scdn.co/image/ab6761610000e5ebdfff170c8f96424c07ff7172
+745,2SNfNJDsahTSVFwgxposF5,Soge Culebra,Soge Culebra,209457,53,5788.826345,10,11,12,https://i.scdn.co/image/ab6761610000e5eb61328abb2bc8ac15bbccc8fd
+746,1GfaAWKfZE9hrYS8IqkWKB,Tranzas,Tranzas,586719,55,0.0,3,1,1,https://i.scdn.co/image/ab67616d0000b2731f841fd3a1265c1efcd97291
+747,4rvJ0Ktz2X2Erea9XUHxfu,Pepe : Vizio,Pepe : Vizio,29097,51,961.7153,10,16,21,https://i.scdn.co/image/ab6761610000e5ebd92cb89afa84ad8cb9ef9516
+748,3W4lVkySjtIvd67UUg0F3i,Cabas,Cabas,571475,54,0.0,6,4,5,https://i.scdn.co/image/ab6761610000e5eb05163eccd6d79c8d40bebeed
+749,3phVKYqeq84Ai91CHTQfNq,Hillsong en Español,Hillsong en Español,570156,60,0.0,8,4,4,https://i.scdn.co/image/ab6761610000e5ebf0981d2d660c3f51e486cb1f
+750,1Qv4E1VgZOGnOYd99Kp5Bs,Las Pelotas,Las Pelotas,568267,57,0.0,6,1,2,https://i.scdn.co/image/ab6761610000e5ebc98d7b93e3c0ad3b9fbd18e7
+751,5Ypafuz95Xk09YDf4tgAvU,Ayax y Prok,Ayax y Prok,566214,61,821.644395,10,17,50,https://i.scdn.co/image/ab6761610000e5eb67eaffb24432f1aa989b511c
+752,4FActBvkmDc8h3sI5vbMPZ,Blasfem,Blasfem,6413,55,421.817146,10,13,45,https://i.scdn.co/image/ab6761610000e5eb7685f5bc4eca2c64386705af
+753,06s35sbFfZJUEwFjAaZfiW,Cookin Soul,Cookin Soul,121835,55,33.198644,10,6,25,https://i.scdn.co/image/ab6761610000e5eb96739da5fdf4b043c7106c67
+754,79N4S7UXdjo2fAh3OHJQuB,Hard GZ,Hard GZ,208444,56,914.463927,13,12,53,https://i.scdn.co/image/ab6761610000e5eb2769861cbc7ec4e152ecb672
+755,4oNsvVnFz4HQ0UPpPFSuJX,Easy-S,Easy-S,44260,50,896.584425,10,17,46,https://i.scdn.co/image/ab6761610000e5eb4460dc0edaa88139a97c1694
+756,4She1focTkX0pwpJUtS5eo,Banda XXI,Banda XXI,557742,57,0.0,6,1,1,https://i.scdn.co/image/ab6761610000e5eb5df04e67118ca06ff4977362
+757,0FMucZsEnCxs5pqBjHjIc8,Stan Getz,Stan Getz,346785,62,0.0,12,2,18,https://i.scdn.co/image/ab6761610000e5eb45dd470659deedf47618968e
+758,0txXDZCdXBzha20sgN1GRk,Karen Méndez,Karen Méndez,530472,52,161.377374,10,4,6,https://i.scdn.co/image/ab6761610000e5eb0494f2ac44a6a81ff7654afb
+759,2miffAnnUvKSyB9ykA2su9,Living,Living,71036,51,2.091667,8,6,10,https://i.scdn.co/image/ab6761610000e5ebf16ab03b6cd16365b6c5ee13
+760,0LfJXLNpLGZtn4OAki9W31,Sandra Echeverria,Sandra Echeverria,12501,50,27.635103,6,2,5,https://i.scdn.co/image/ab6761610000e5eb8091534a47ab088ecdacc94f
+761,5R3NywPPOyhLfdvutgg0me,Los Abuelos De La Nada,Los Abuelos De La Nada,517003,60,0.0,6,5,9,https://i.scdn.co/image/ab6761610000e5eb8f1b0552958857772686f221
+762,6GYXfifD78PYARjZzxQzrG,Benjamín Amadeo,Benjamín Amadeo,90715,50,723.427097,6,9,12,https://i.scdn.co/image/ab6761610000e5ebbae228a0a15c9631e6e56cec
+763,0cEa9u1e3cDLXCZxxiuEmi,Majo y Dan,Majo y Dan,238409,55,1635.283206,8,5,8,https://i.scdn.co/image/ab6761610000e5ebe702ffe971d8019d8fe07e88
+764,37MCoi4pcUf9EKsPXeuCqU,Tan Bionica,Tan Bionica,506850,60,0.0,6,1,1,https://i.scdn.co/image/c3c98f50b257d8332aca2968673027470d93f4da
+765,01p7Homi0d4XxZ06f2NYYD,La Sonora Matancera,La Sonora Matancera,191404,55,0.0,9,2,47,https://i.scdn.co/image/ab6761610000e5eba3e45a4d54d08113f2f23f1f
+766,09947uhj2ZwU9mFXK5v50o,Johnny Pacheco,Johnny Pacheco,192323,50,0.0,9,2,8,https://i.scdn.co/image/ab6761610000e5eb7dff83a1fc4f6f57e60f215a
+767,5NvKO965JkIJanRuKQPVN6,Rojo,Rojo,461456,52,40.032307,8,3,6,https://i.scdn.co/image/ab6761610000e5ebaa0e92c5bc092f3b1970a898
+768,4AgfaZvOiSS97uy5ekQ7bf,Los Claxons,Los Claxons,449315,55,140.565434,6,4,7,https://i.scdn.co/image/ab6761610000e5eb47d70a8f1b6fe25ad296fb56
+769,7eBQrhxTHcor6gcbcLhqE5,Porter,Porter,306865,54,141.763581,6,3,4,https://i.scdn.co/image/ab6761610000e5eb09defb9786eec41d900c5211
+770,6OO01j5rLKCyPg4i3FuzIT,Árbol,Árbol,234597,52,13.607915,6,3,3,https://i.scdn.co/image/ab6761610000e5eb3c93d137ad7fab4114710169
+771,4BwfloY1F2zHUPcYlYnDnz,Aiman JR,Aiman JR,143194,50,6.425118,10,3,5,https://i.scdn.co/image/ab6761610000e5eb0816aa909d88abdeed398707
+772,47bVt95bvBMpmJFWoyhH0C,Xtreme,Xtreme,426404,54,0.0,6,1,1,https://i.scdn.co/image/ab6761610000e5eb8e4e6c285f0cedf8a61703ca
+773,0IAWTLWnUIzKVQDTGoYJk2,Los Manseros Santiagueños,Los Manseros Santiagueños,226445,52,97.62265,6,3,3,https://i.scdn.co/image/ab6761610000e5eb738dee0380a9e253eb4f6ea0
+774,2wjmZuSHtRx96Qxb8HiP2o,Guasones,Guasones,411658,55,0.0,6,1,1,https://i.scdn.co/image/ab6761610000e5eb38ab0f13eb4c661d66f1089d
+775,0nqpXa8bkBlWgS9FKhNCuj,Golpe a Golpe,Golpe a Golpe,404145,51,0.0,0,5,9,https://i.scdn.co/image/ab6761610000e5eb598c78b1ba472bc722d97d78
+776,60nua3AsVSfADZtg5Hdz3W,La Mosca Tse-Tse,La Mosca Tse-Tse,403962,61,0.0,6,1,1,https://i.scdn.co/image/ab67616d0000b27360fc79eea7acba5248619f82
+777,2AbQwU2cuEGfD465wCXlg2,Rawayana,Rawayana,398730,56,1426.533813,2,9,12,https://i.scdn.co/image/ab6761610000e5eb9881ff5ef753e0aa4e825565
+778,5x3mrCTZmkoTXURN7pWdGN,Los Amigos Invisibles,Los Amigos Invisibles,373907,61,128.839994,6,7,8,https://i.scdn.co/image/ab6761610000e5eb9c1cc3fc8f082bb7146a4165
+779,2rwLjVHS15sfzciKXXNbgA,Yiyo Sarante,Yiyo Sarante,395616,59,810.384208,13,6,6,https://i.scdn.co/image/ab6761610000e5eb300a4eaf0111ea12cbf1ade1
+780,3sc8HnadkPW5YaIGbCljw4,El Roockie,El Roockie,157999,50,887.71663,0,10,16,https://i.scdn.co/image/ab6761610000e5eb17b8e98f5176fe2fc40e6893
+781,5Q1vijNjTVhQBoVrZVXms8,Mach & Daddy,Mach & Daddy,103191,52,178.292003,2,6,9,https://i.scdn.co/image/ab67616d0000b273c1819c539413082cc821cc80
+782,4VsbQvC84B8Z3IsBY1HLQy,La Factoria,La Factoria,297989,65,7.422219,2,5,8,https://i.scdn.co/image/ab6761610000e5eb7846a5b60fa75074de768bb0
+783,3raEZI89hszEBTTvb5wLsi,Stailok,Stailok,43440,52,0.0,13,3,5,https://i.scdn.co/image/ab6761610000e5eb2d0a6ab85d260518ab2058bd
+784,5VcamBo0Goh74iFQDqj6Q4,Yoskar Sarante,Yoskar Sarante,374386,51,0.0,3,1,1,https://i.scdn.co/image/c4065881707fd91e108e1c556d8acee9852145ff
+785,2Qm12OdHFDHSpWhBMpO16L,Calo,Calo,370195,56,0.0,6,1,2,https://i.scdn.co/image/ab6761610000e5ebb60db9dab1687c34b4b40ee8
+786,6tZxUxheS7w3953cQFOXkd,Adalberto Santiago,Adalberto Santiago,118501,56,0.0,9,1,1,https://i.scdn.co/image/ab67616d0000b273e4be1c14ef7b4fe0e8511ba5
+787,4umfGspINdkBEwCjc1f5Xw,Palabra en Acción,Palabra en Acción,38664,50,0.0,8,2,10,https://i.scdn.co/image/ab67616d0000b273436db6e6e13108c3774addcf
+788,6Nm62oNQCdPxVoiQtFSksF,Estelares,Estelares,354982,56,375.337891,6,4,5,https://i.scdn.co/image/ab6761610000e5eb81868a2338c87a0a249e67bf
+789,32AuV4BxATEf2i7YVhIjht,Robleis,Robleis,354242,58,0.0,10,2,2,https://i.scdn.co/image/ab6761610000e5eb3292f5c30c926e2b6c2adf84
+790,1wKDGglKV4FsFS85r2Dmpr,Airbag,Airbag,342697,60,0.0,6,1,1,https://i.scdn.co/image/ab6761610000e5eb7111b2876af6e3d2df1b667e
+791,4cJD9t5QBFTUQcd3xfbOb2,Dillom,Dillom,332419,62,11.117602,10,3,3,https://i.scdn.co/image/ab6761610000e5ebba72ab78c81d0ea16818843e
+792,3QchzUOTSCKWmaRGEEiuir,Saramalacara,Saramalacara,108288,54,21.300725,10,5,9,https://i.scdn.co/image/ab6761610000e5eb7a42af70ca99f4ef4b54223c
+793,5fVtUielMhdztOA34ArB6c,Ratones Paranoicos,Ratones Paranoicos,329345,51,0.0,6,3,4,https://i.scdn.co/image/ab6761610000e5eb73e6de60462779c8435060e3
+794,3vV4Tf1iC8vEP9fLOLGUfP,La Banda Baston,La Banda Baston,328962,51,0.0,2,2,2,https://i.scdn.co/image/ab6761610000e5eb453c05deb41ebb3e20668222
+795,2qWNYueLfc979iEdLOIK2C,Grupo Limite,Grupo Limite,317898,57,0.0,6,2,4,https://i.scdn.co/image/ab67616d0000b273f6ef51231296439647e3995b
+796,1MXug5KOetEEQjjvCPWwIm,Gloosito,Gloosito,20849,52,0.0,10,2,3,https://i.scdn.co/image/ab6761610000e5eba345d2602bae2faa3f88f7fb
+797,0VD8vX2wvCYYD0SMFCZeRR,Calero LDN,Calero LDN,115029,50,2818.171219,13,10,12,https://i.scdn.co/image/ab6761610000e5eb38ec7babbf8421ce4152739c
+798,2D8UzkIVdg1bj0Iqz6gjk0,Abhir Hathi,Abhir Hathi,12866,65,76.2257,10,10,17,https://i.scdn.co/image/ab6761610000e5eb702729fff9226feefc400257
+799,2pZ81eCkqxemIjqqfE1fhE,Guayacán Orquesta,Guayacán Orquesta,303641,59,0.0,6,5,5,https://i.scdn.co/image/ab6761610000e5ebcc3a569c0b0fca6a24f189e4
+800,5cMTiWeaWidGI8hVoZY8Ox,Perotá Chingó,Perotá Chingó,296246,52,0.0,10,1,1,https://i.scdn.co/image/ab6761610000e5eb736df2d9443bf31ba4e486e3
+801,7eH1UUCyxL8Wf9PztvvPJ6,Arce,Arce,295499,51,1233.14707,13,7,12,https://i.scdn.co/image/ab6761610000e5eb12a46f4c57418cbea452e729
+802,0DjGDEVSQsodFbL1bMVPRs,Miranda,Miranda,66694,50,778.510321,13,8,10,https://i.scdn.co/image/ab6761610000e5eb8452f991ee028b2099f8bd7d
+803,3J1MhhyXLJRNRZVrx11Lbf,Cyril Kamer,Cyril Kamer,59202,57,36.883712,10,6,7,https://i.scdn.co/image/ab6761610000e5eb2b8fccf6c358e008f2b40275
+804,4FhC69hLxEcpLUaC08ityW,Skinny Flex,Skinny Flex,103044,53,431.903896,4,5,7,https://i.scdn.co/image/ab6761610000e5ebf97339badf211546d22455f6
+805,6fs2zAuQ7tpU2kGIpyouQh,Nicho Hinojosa,Nicho Hinojosa,292529,51,0.0,6,1,1,https://i.scdn.co/image/ab6761610000e5ebd9ac17053c5471b2581a6cc9
+806,5ZMwoAjeDtLJ0XRwRTgaK8,Quantic,Quantic,289632,59,0.0,6,1,1,https://i.scdn.co/image/ab6761610000e5eb9729e45229f59ed85658fc00
+807,62YF0FglEltB3CnVIjoko8,Ingratax,Ingratax,290716,63,0.0,2,2,2,https://i.scdn.co/image/ab6761610000e5eb6979a78a6075922ae5b6cdcb
+808,5YyScSZOuBHpoFhGvHFedc,La Fuga,La Fuga,284810,52,0.0,6,2,2,https://i.scdn.co/image/ab6761610000e5ebd84d91e43435fee84d077bf4
+809,3hIPQBm8PBt8B5aahP6cVP,Celtas Cortos,Celtas Cortos,217656,50,0.0,6,2,2,https://i.scdn.co/image/ab6761610000e5eb254c68dd7e220a2b629a1389
+810,0caLxEeeNrpE0noxdInoGe,Obie Bermudez,Obie Bermudez,277826,52,0.0,6,2,5,https://i.scdn.co/image/ab6761610000e5eb13ae56136be844e707e0a7fb
+811,2KNDYRKdCzuKzCCUyjAcF4,NB Ridaz,NB Ridaz,263098,50,0.0,2,1,1,https://i.scdn.co/image/f9cee1f68114aa4502aa275c56d32e1c1d5e02d9
+812,0hD97064k3LBUrRvfT42SE,Fulanito,Fulanito,263401,50,0.0,11,2,2,https://i.scdn.co/image/ab6761610000e5ebb6fd7660fbbef2d7786d779d
+813,5388C04OP0Fc6xqbvct7kv,Laureano Brizuela,Laureano Brizuela,238525,51,0.0,6,2,2,https://i.scdn.co/image/ab67616d0000b2733f287a8b6ce076bd8a3e5d9e
+814,3TEhIeweC59okLmqFu6LWv,Dani J,Dani J,46923,51,0.0,11,1,1,https://i.scdn.co/image/ab6761610000e5eb8df48f2abc66f2b051724eea
+815,6w1XCiB8efbfnusJ2jzmvu,Proyecto Uno,Proyecto Uno,253505,54,0.0,11,1,1,https://i.scdn.co/image/ab6761610000e5eb0b30a4b76f18c0523937e55b
+816,3m6N2XBSZqfkujRvGYcdi8,Chusterfield,Chusterfield,26785,51,0.0,13,3,3,https://i.scdn.co/image/ab6761610000e5eb40880affeeb9d0bae62493a3
+817,4DuhYdfd2jHMdaqYVYZp04,Mancha De Rolando,Mancha De Rolando,250710,50,0.0,0,2,2,https://i.scdn.co/image/ab6761610000e5eb2dd7640d4b737b1f9dee99fc
+818,0FwnPHExlRRxEZPLAi5tmG,JC Reyes,JC Reyes,67543,64,1707.569922,13,18,37,https://i.scdn.co/image/ab6761610000e5eb6c297793040162c826d33983
+819,2QTmeZpVjHmIoYSRwsoucA,Kika Edgar,Kika Edgar,248463,53,0.0,6,4,4,https://i.scdn.co/image/ab6761610000e5eba495d1504b63f5bad8dbfa43
+820,7HXJp9OMIL5tdwZYleuBvy,Alejandro Santamaria,Alejandro Santamaria,15998,52,428.141142,2,12,18,https://i.scdn.co/image/ab6761610000e5eb0dd1156050664dbc81f4e388
+821,036IY6CphXdsPiqIXdqvCP,La Raíz,La Raíz,245667,50,0.0,6,1,1,https://i.scdn.co/image/ab6761610000e5eb343017ed0105c69bccaa1840
+822,796YUyTCTkXZAZg4CLUoWl,Los Huayra,Los Huayra,180136,51,0.0,6,3,3,https://i.scdn.co/image/ab6761610000e5eb9939e5522fe2a3f794a4c1e2
+823,105iYV1T7lf8Rysxo0KzfD,Nikone,Nikone,234628,53,95.013673,13,7,32,https://i.scdn.co/image/ab6761610000e5eb0c0d3a32887990fb67ff29c7
+824,7gGKjAXKRyDUhSUhFDIaAW,Lupita's Friends,Lupita's Friends,4931,50,1427.760987,13,13,52,https://i.scdn.co/image/ab6761610000e5eba1ef135674cc8f94fb4993c7
+825,0htSEnHjTcKdNapBwIsEaA,Volován,Volován,233711,50,0.0,6,1,2,https://i.scdn.co/image/ab6761610000e5eb9754ba23bc074b664a72d451
+826,3v2sYzsuZVd0gAhMWgl9I7,Xavibo,Xavibo,53847,50,617.829308,10,6,6,https://i.scdn.co/image/ab6761610000e5eb1e77d53fc9341215b6b19193
+827,3UP83Ekm9Jse6j0dWZJlH9,Dromedarios Mágicos,Dromedarios Mágicos,71260,53,0.0,2,2,3,https://i.scdn.co/image/ab6761610000e5eb2951266040321fd70fdae200
+828,3ZfYo6sKskRv0wOyrZZdAj,Sayian Jimmy,Sayian Jimmy,41116,61,25.431686,10,5,7,https://i.scdn.co/image/ab6761610000e5eb9d2293ea08fb2d762fcebbf4
+829,3BCFlhrVzBKHbzBnWr13d9,Sebastián Cortés,Sebastián Cortés,30837,50,0.0,10,2,2,https://i.scdn.co/image/ab6761610000e5eb0f790a43ad40617d2f7fcd03
+830,6tvDaHOPNWfkc9Q8IghqSR,Walls,Walls,95376,55,2144.861948,10,6,9,https://i.scdn.co/image/ab6761610000e5eb06af74b3458ef7e0ab1005a1
+831,0tJDMMp9vT1q6zrPih0yFQ,Luis Miguel Del Amargue,Luis Miguel Del Amargue,206344,50,0.0,13,1,1,https://i.scdn.co/image/ab6761610000e5eb659abab5f742a35c3b95b4f7
+832,04mTej6RpWzBxGwhfThpIi,Rojuu,Rojuu,206916,62,111.744851,10,7,16,https://i.scdn.co/image/ab6761610000e5eb1650797d9806e248c4a4adf7
+833,2TzPi0fPdqVesjZ3Y2wY43,Orslok,Orslok,76207,55,138.708792,10,4,4,https://i.scdn.co/image/ab6761610000e5eb66a74c1999ac9a8213faabff
+834,7CSpCpNGTK9589bTi44SzE,BANDIDO,BANDIDO,86570,55,23.697292,10,7,11,https://i.scdn.co/image/ab6761610000e5ebad86a1d73844fd12e8cad1f6
+835,5bRLeMl4Tnozmg9wR1pY7y,Bruses,Bruses,201156,57,790.0,6,3,3,https://i.scdn.co/image/ab6761610000e5ebbae29832b06ac6379036ca26
+836,05i5DIXDf4Ai4NEPEi3uBZ,Atomic Otro Way,Atomic Otro Way,111393,57,162.519478,13,7,9,https://i.scdn.co/image/ab6761610000e5eb4e9139751bfbce1e37346c5e
+837,1nwjHzOUQZsNYX8xoWiGVC,Funzo & Baby Loud,Funzo & Baby Loud,170807,58,0.0,10,2,2,https://i.scdn.co/image/ab6761610000e5eb00b6cc7ddf745b6246873fd8
+838,3iY9PS7LxPnCVcCP7BjJOK,Hens,Hens,70347,57,1611.410808,10,5,7,https://i.scdn.co/image/ab6761610000e5ebe8e0cf31f5ea4863dfdd4f8f
+839,7xJZNfI5Yks87tn3ebHy9h,Toma Tu Lugar,Toma Tu Lugar,169945,52,0.0,8,1,32,https://i.scdn.co/image/ab6761610000e5eb2b09833cc033fbe40d8a5eee
+840,7q3hzOFspDedtkyBi1Azc8,J.Moods,J.Moods,4269,53,0.0,10,5,30,https://i.scdn.co/image/ab6761610000e5eba3de2ba746f333e732c84dcf
+841,5KBPxIED8ejHkvhs4KCzyS,Granuja,Granuja,79832,50,11.488889,10,2,2,https://i.scdn.co/image/ab6761610000e5ebd81cdc550ee3cdb67d263372
+842,05aVtfDzBvg9eVu9MAZPGD,Cráneo,Cráneo,153484,56,783.0,10,3,3,https://i.scdn.co/image/ab6761610000e5eb841b611437fb6b209d6983b7
+843,72kqSqk124Vnl1wtT6q9Fh,Adassa,Adassa,6240,64,0.0,2,3,3,https://i.scdn.co/image/ab6761610000e5eba32027d30cfbd731e73da0b9
+844,5ti5FPHgtaSf15KcUisZMt,maye,maye,127245,54,0.0,2,1,1,https://i.scdn.co/image/ab6761610000e5ebc526e67c8efa27cc77acc9d1
+845,3E7NGbzUGlOjgYY8nvtijR,Paco Amoroso,Paco Amoroso,123981,54,345.914331,10,8,25,https://i.scdn.co/image/ab6761610000e5ebdef9c708fa272ebed879c84c
+846,188pkeHUWXnROe7lFVYRRa,Paté de Fuá,Paté de Fuá,147369,50,0.0,6,3,4,https://i.scdn.co/image/ab6761610000e5eb49806139b136627d89d252ac
+847,5bVQN1TENxjVjWXNHHpflG,Big Boy,Big Boy,142838,57,0.0,2,5,10,https://i.scdn.co/image/ab6761610000e5ebdb254cc31d41e88b02f51d0b
+848,7HFja6X48hWE58m3pQnGV0,Cardellino,Cardellino,75715,56,190.46992,10,5,7,https://i.scdn.co/image/ab6761610000e5eb47ea96b9d766098325335eb2
+849,7wLYNBd1fXGEKSLJMNnlt4,Oro Solido,Oro Solido,138938,51,0.0,11,3,5,https://i.scdn.co/image/ab67616d0000b2734466e071b0d0a55da1d4b0f5
+850,6DGfzsM8doRBRyvYmgibkd,KYOTTO,KYOTTO,62419,50,9.734424,10,4,5,https://i.scdn.co/image/ab6761610000e5eb48b15340ed5f35e779ae152e
+851,6GEaxHZNiogI175zUr4KvH,Axel Fiks,Axel Fiks,31555,51,1014.839115,2,7,8,https://i.scdn.co/image/ab6761610000e5eb3f142b103c461a7ac165f68f
+852,5UbMQUFrcJdDstPCza7y0B,Seguridad Social,Seguridad Social,123757,50,0.0,6,2,4,https://i.scdn.co/image/58eb3bd3abae21be4206718a363f4fa7cf7c8df7
+853,7uXKIO6VDeOCo6ImWZpZJn,Mayo 214,Mayo 214,71844,50,70.279211,13,4,5,https://i.scdn.co/image/ab6761610000e5eb3e94077b18f53bf8d09fb467
+854,20taoPw3DvVajnkUySMckx,EZVIT 810,EZVIT 810,68824,50,0.0,13,2,2,https://i.scdn.co/image/ab6761610000e5eb0c211a3b17c4fd73db89bddd
+855,4GZOqR1Cx6YeBN2Lmv0B1e,Victor Garcia,Victor Garcia,114572,53,0.0,6,1,1,https://i.scdn.co/image/ab6761610000e5ebe5a54fd9d0ccae75baa407f5
+856,3FtVhV92rZyHa7ot2ioG5a,El Bobe,El Bobe,59861,58,175.198829,10,12,13,https://i.scdn.co/image/ab6761610000e5eba4a09a1eaddf00bfd735e250
+857,6m735GSES3duQtLrgqoGUb,KG970,KG970,76119,61,0.0,4,2,8,https://i.scdn.co/image/ab6761610000e5ebae7fd23ba1f099488d641abb
+858,4MT1vDqEKurI3ctpK6TqLt,La Garfield,La Garfield,102460,51,0.0,10,2,3,https://i.scdn.co/image/ab6761610000e5eb33c7595d48098a74a8c38d3e
+859,1KfRf4VkEYpL2G0FTWb7JX,TIMØ,TIMØ,45063,58,0.0,2,2,2,https://i.scdn.co/image/ab6761610000e5eb56543ddac1e325697ad09647
+860,2XVoz4hoXgQ3C2BTGxl9V2,Juan Ingaramo,Juan Ingaramo,62235,52,304.860821,6,10,11,https://i.scdn.co/image/ab6761610000e5ebc3d1f122463ed158d7bf034b
+861,69euPppXM1JP7UYXzKBvi4,Anthrés,Anthrés,75724,50,0.0,6,1,1,https://i.scdn.co/image/ab6761610000e5ebe79604074ff4e02995a1bb72
+862,57s0ep3eNSg81D7ZxiuHbC,Viva Suecia,Viva Suecia,71266,52,0.0,6,1,1,https://i.scdn.co/image/ab6761610000e5eb48f4b52b07f08e4f383bbe60
+863,7akJAsqIpakhpXpWEUSEGX,Carbon Fiber Music,Carbon Fiber Music,8018,59,0.0,0,11,52,https://i.scdn.co/image/ab6761610000e5ebbdeef91d3e202b3b50b351bb

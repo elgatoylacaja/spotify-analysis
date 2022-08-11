@@ -40,7 +40,7 @@ const SpotifyApi = {
 };
 
 async function run() {
-  const file = await readFile("./nodes_edges_minify.json");
+  const file = await readFile("./input/nodes_edges_minify.json");
   const json = JSON.parse(file);
 
   const groupSize = 50;
@@ -48,7 +48,7 @@ async function run() {
   const promises = Array.from({ length: groups }).map((_, i) => {
     const ids = json.nodes
       .slice(groupSize * i, groupSize * (i + 1))
-      .map((a) => a.spotify_id);
+      .map((a) => a.id__1);
     return SpotifyApi.getArtists(ids);
   });
 
